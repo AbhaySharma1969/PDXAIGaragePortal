@@ -1,0 +1,20 @@
+PDX AI Garage Portal - Version 17 Clean Learning Flow
+
+Purpose:
+- Rebuild the workflow around one clean learning loop.
+- Main flow: Home -> Mission Player -> Learn -> Check -> Practice -> Build -> Reflect -> Next.
+- Remove competing entry points from main navigation.
+- Move old pages to Archive.
+
+New/overwritten:
+- index.html
+- mission-player.html
+- curriculum.html
+- projects.html
+- parent-guide.html
+- archive.html
+- v17-qa.html
+- css/styles.css
+- js/missions-data.js
+- js/lesson-player.js
+- js/app.js
