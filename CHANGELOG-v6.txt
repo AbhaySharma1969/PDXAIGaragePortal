@@ -1,0 +1,18 @@
+PDX AI Garage Portal - Version 6 Full 30-Day Build
+
+Built from v5.1 cleanup.
+
+New in v6:
+- Completed Week 4: AI for Sports + Habits, Day 16–20.
+- Completed Week 5: AI Tools + Mini Apps, Day 21–25.
+- Completed Week 6: Final Founder Showcase Sprint, Day 26–30.
+- Added sports-habits.html hub.
+- Added mini-apps.html hub.
+- Added final-sprint.html hub.
+- Updated Dashboard to Day 1–30.
+- Updated Lesson Plans quick launch through Day 30.
+- Updated Projects page with links to Sports Module, Mini Apps, and Final Sprint.
+- Expanded Prompt Library and Resources for Week 4–6.
+- Updated Testing Checklist for full 30-day portal.
+
+This is the first full end-to-end curriculum build.

@@ -30,3 +30,6 @@ Version 5 additions:
 - Day 11–15 detailed mission pages
 - school-tools.html hub
 - Dashboard and testing updates through Day 15
+
+
+Version 6: Full 30-day build completed through Day 30 with Week 4, Week 5, and Week 6 modules.
