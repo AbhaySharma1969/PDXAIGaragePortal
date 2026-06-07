@@ -1,0 +1,13 @@
+PDX AI Garage Portal - Version 5.1 Cleanup
+
+Built from v5.
+
+Fixes:
+- Fixed Prompt Library missing closing </main> tag before footer.
+- Updated Dashboard from Week 1/v3 wording to v5/Dsys 1–15 wording.
+- Added functional mobile hamburger menu behavior.
+- Added mobile menu CSS.
+- Set School Tools nav highlight correctly on school-tools.html.
+- Updated Testing Checklist to include mobile hamburger test.
+
+No curriculum scope changes in this version.

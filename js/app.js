@@ -18,3 +18,10 @@ const missions=[
 function renderMissions(){const el=document.querySelector('#missionList'); if(!el)return; el.innerHTML=missions.map(m=>`<div class="card mission"><span class="tag">${m.day} · ${m.xp} XP</span><h3>${m.title}</h3><p class="muted">Status: ${m.status}. Complete the build, capture one screenshot, and write one sentence about what worked.</p><a class="btn ghost" href="${m.url}">Open Mission</a></div>`).join('')}
 function setYear(){document.querySelectorAll('.year').forEach(e=>e.textContent=new Date().getFullYear())}
 renderMissions();setYear();
+function setupMobileMenu(){
+  const button=document.querySelector('.mobile-menu');
+  const links=document.querySelector('.links');
+  if(!button||!links)return;
+  button.addEventListener('click',()=>links.classList.toggle('open'));
+}
+setupMobileMenu();
