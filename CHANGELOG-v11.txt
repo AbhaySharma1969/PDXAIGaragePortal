@@ -1,0 +1,12 @@
+PDX AI Garage Portal - Version 11 AI Coach
+
+New:
+- ai-coach.html lesson-player page.
+- Students can choose a coach mode, copy a prompt, open ChatGPT, and return to missions.
+- Coach modes: Explain it, Quiz me, Build with me, Check my answer, Project coach, Demo coach.
+- Homepage, Start Learning, mission navs, and route test now link to AI Coach.
+
+Purpose:
+- Make the site feel usable immediately for a student.
+- Bridge the gap between static learning pages and actually using AI.
+- No login or API key required.
