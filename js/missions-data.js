@@ -7,19 +7,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI becomes more useful when it understands your goal, interests, and constraints. Today you define the learner and builder you want to become.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "Which action best matches this mission?",
       "options": [
-        "Ask AI to do everything for me",
-        "Give AI context, then check and improve the output",
-        "Skip the build and only read"
+        "Copy the AI output exactly",
+        "Use AI to make a draft, then improve it yourself",
+        "Skip the activity"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Founder Profile. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Founder Profile. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -40,19 +40,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A strong prompt tells AI its role, task, context, constraints, output format, and quality bar.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What should you do before trusting an AI answer?",
       "options": [
-        "The part where I do my own thinking",
-        "The fastest way to get final answers",
-        "The title of the page"
+        "Check the important claims",
+        "Assume it is right if it sounds confident",
+        "Only look at the first sentence"
       ],
       "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Prompt Power. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Prompt Power. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -73,19 +73,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can sound confident even when it is wrong. Treat its answer as a draft until you check the claims.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What makes an artifact useful?",
       "options": [
-        "Confidence means correctness",
-        "Unclear claims should be checked",
-        "A longer answer is always better"
+        "It is long",
+        "It shows a real build or decision",
+        "It uses big words"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: AI Can Be Wrong. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: AI Can Be Wrong. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -106,19 +106,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "You can shape AI\u2019s behavior by writing rules. A good assistant coaches you without replacing your thinking.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What is the safest school use of AI?",
       "options": [
-        "A finished artifact and reflection",
-        "Only a copied AI answer",
-        "A random fact from the internet"
+        "Ask for final answers",
+        "Ask for hints, practice, and feedback",
+        "Submit AI text without reading it"
       ],
-      "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 1,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Personal Assistant. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Personal Assistant. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -139,19 +139,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A good demo shows the artifact, the learning, one failure, and the next version.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What belongs in a good demo?",
       "options": [
-        "Hide what failed",
-        "Explain what changed from version 1 to version 2",
-        "Avoid showing the artifact"
+        "Only the success",
+        "What worked, what failed, and what changed",
+        "No example"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Week 1 Demo. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Week 1 Demo. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -172,19 +172,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Careful investigators separate verified facts, claims, opinions, and emotional wording before making judgments.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "When AI is uncertain, what should you do?",
       "options": [
-        "Ask AI to do everything for me",
-        "Give AI context, then check and improve the output",
-        "Skip the build and only read"
+        "Label uncertainty and find evidence",
+        "Pretend the answer is complete",
+        "Delete the hard parts"
       ],
-      "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 0,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Facts vs Claims. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Facts vs Claims. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -205,19 +205,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A neutral timeline shows what happened, what source supports it, and what is still unknown.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "Which action best matches this mission?",
       "options": [
-        "The part where I do my own thinking",
-        "The fastest way to get final answers",
-        "The title of the page"
+        "Copy the AI output exactly",
+        "Use AI to make a draft, then improve it yourself",
+        "Skip the activity"
       ],
-      "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 1,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Neutral Timeline. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Neutral Timeline. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -238,19 +238,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Loaded language can quietly push the reader toward one side. Neutral rewrites help you think more fairly.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What should you do before trusting an AI answer?",
       "options": [
-        "Confidence means correctness",
-        "Unclear claims should be checked",
-        "A longer answer is always better"
+        "Check the important claims",
+        "Assume it is right if it sounds confident",
+        "Only look at the first sentence"
       ],
-      "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 0,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Bias Detector. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Bias Detector. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -271,19 +271,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Balanced writing means giving each side its strongest honest version while labeling missing facts.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What makes an artifact useful?",
       "options": [
-        "A finished artifact and reflection",
-        "Only a copied AI answer",
-        "A random fact from the internet"
+        "It is long",
+        "It shows a real build or decision",
+        "It uses big words"
       ],
-      "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 1,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Both Sides Fairly. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Both Sides Fairly. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -304,19 +304,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Ethical decisions consider stakeholders, risk, responsibility, and fair next steps.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What is the safest school use of AI?",
       "options": [
-        "Hide what failed",
-        "Explain what changed from version 1 to version 2",
-        "Avoid showing the artifact"
+        "Ask for final answers",
+        "Ask for hints, practice, and feedback",
+        "Submit AI text without reading it"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Ethics Brief. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Ethics Brief. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -337,19 +337,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can help with school when it quizzes, hints, and corrects instead of simply giving answers.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What belongs in a good demo?",
       "options": [
-        "Ask AI to do everything for me",
-        "Give AI context, then check and improve the output",
-        "Skip the build and only read"
+        "Only the success",
+        "What worked, what failed, and what changed",
+        "No example"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Spanish Vocab Coach. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Spanish Vocab Coach. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -370,19 +370,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Conversation practice improves when AI asks one question at a time and corrects gently.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "When AI is uncertain, what should you do?",
       "options": [
-        "The part where I do my own thinking",
-        "The fastest way to get final answers",
-        "The title of the page"
+        "Label uncertainty and find evidence",
+        "Pretend the answer is complete",
+        "Delete the hard parts"
       ],
       "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Spanish Conversation Bot. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Spanish Conversation Bot. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -403,19 +403,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A good math tutor asks what step you would try before showing a solution.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "Which action best matches this mission?",
       "options": [
-        "Confidence means correctness",
-        "Unclear claims should be checked",
-        "A longer answer is always better"
+        "Copy the AI output exactly",
+        "Use AI to make a draft, then improve it yourself",
+        "Skip the activity"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Algebra Helper. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Algebra Helper. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -436,19 +436,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A useful study guide turns notes into examples, practice questions, and a review plan.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What should you do before trusting an AI answer?",
       "options": [
-        "A finished artifact and reflection",
-        "Only a copied AI answer",
-        "A random fact from the internet"
+        "Check the important claims",
+        "Assume it is right if it sounds confident",
+        "Only look at the first sentence"
       ],
       "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Study Guide Generator. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Study Guide Generator. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -469,19 +469,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A school AI tool should protect learning by forcing practice, explanation, and revision.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What makes an artifact useful?",
       "options": [
-        "Hide what failed",
-        "Explain what changed from version 1 to version 2",
-        "Avoid showing the artifact"
+        "It is long",
+        "It shows a real build or decision",
+        "It uses big words"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: School Tool Demo. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: School Tool Demo. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -502,19 +502,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can help create realistic practice plans with measurable targets and reflection.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What is the safest school use of AI?",
       "options": [
-        "Ask AI to do everything for me",
-        "Give AI context, then check and improve the output",
-        "Skip the build and only read"
+        "Ask for final answers",
+        "Ask for hints, practice, and feedback",
+        "Submit AI text without reading it"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Basketball Coach. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Basketball Coach. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -535,19 +535,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Reflection turns practice into learning. AI can help spot patterns in your notes.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What belongs in a good demo?",
       "options": [
-        "The part where I do my own thinking",
-        "The fastest way to get final answers",
-        "The title of the page"
+        "Only the success",
+        "What worked, what failed, and what changed",
+        "No example"
       ],
-      "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 1,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Golf Reflection Tool. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Golf Reflection Tool. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -568,19 +568,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A good habit system is simple, visible, and motivating enough to use repeatedly.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "When AI is uncertain, what should you do?",
       "options": [
-        "Confidence means correctness",
-        "Unclear claims should be checked",
-        "A longer answer is always better"
+        "Label uncertainty and find evidence",
+        "Pretend the answer is complete",
+        "Delete the hard parts"
       ],
-      "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 0,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Habit Dashboard. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Habit Dashboard. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -601,19 +601,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can observe visible patterns, but it should not pretend to be a certified coach or doctor.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "Which action best matches this mission?",
       "options": [
-        "A finished artifact and reflection",
-        "Only a copied AI answer",
-        "A random fact from the internet"
+        "Copy the AI output exactly",
+        "Use AI to make a draft, then improve it yourself",
+        "Skip the activity"
       ],
-      "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 1,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Video Reflection Prompt. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Video Reflection Prompt. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -634,19 +634,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A product demo should show a real example, a weakness, and the next version.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What should you do before trusting an AI answer?",
       "options": [
-        "Hide what failed",
-        "Explain what changed from version 1 to version 2",
-        "Avoid showing the artifact"
+        "Check the important claims",
+        "Assume it is right if it sounds confident",
+        "Only look at the first sentence"
       ],
-      "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 0,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Sports Tech Demo. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Sports Tech Demo. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -667,19 +667,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A scorecard can estimate value only if it labels missing data and confidence.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What makes an artifact useful?",
       "options": [
-        "Ask AI to do everything for me",
-        "Give AI context, then check and improve the output",
-        "Skip the build and only read"
+        "It is long",
+        "It shows a real build or decision",
+        "It uses big words"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: LEGO Price Estimator. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: LEGO Price Estimator. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -700,19 +700,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A decision matrix makes tradeoffs visible instead of hiding them behind one recommendation.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What is the safest school use of AI?",
       "options": [
-        "The part where I do my own thinking",
-        "The fastest way to get final answers",
-        "The title of the page"
+        "Ask for final answers",
+        "Ask for hints, practice, and feedback",
+        "Submit AI text without reading it"
       ],
-      "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 1,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: E-bike Comparison Tool. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: E-bike Comparison Tool. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -733,19 +733,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can help write code, but you should understand the purpose of each section.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What belongs in a good demo?",
       "options": [
-        "Confidence means correctness",
-        "Unclear claims should be checked",
-        "A longer answer is always better"
+        "Only the success",
+        "What worked, what failed, and what changed",
+        "No example"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Mini Web Page Builder. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Mini Web Page Builder. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -766,19 +766,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A founder looks for friction. Confusing parts are product opportunities.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "When AI is uncertain, what should you do?",
       "options": [
-        "A finished artifact and reflection",
-        "Only a copied AI answer",
-        "A random fact from the internet"
+        "Label uncertainty and find evidence",
+        "Pretend the answer is complete",
+        "Delete the hard parts"
       ],
       "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Product Critic Mode. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Product Critic Mode. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -799,19 +799,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A prototype demo shows the user problem, test, weakness, and version 2.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "Which action best matches this mission?",
       "options": [
-        "Hide what failed",
-        "Explain what changed from version 1 to version 2",
-        "Avoid showing the artifact"
+        "Copy the AI output exactly",
+        "Use AI to make a draft, then improve it yourself",
+        "Skip the activity"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Prototype Demo. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Prototype Demo. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -832,19 +832,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "The final build should be useful, demo-friendly, and honest about what was learned.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What should you do before trusting an AI answer?",
       "options": [
-        "Ask AI to do everything for me",
-        "Give AI context, then check and improve the output",
-        "Skip the build and only read"
+        "Check the important claims",
+        "Assume it is right if it sounds confident",
+        "Only look at the first sentence"
       ],
-      "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 0,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Choose Final Build. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Choose Final Build. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -865,19 +865,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A strong story includes the problem, build, AI help, mistake, change, and next version.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What makes an artifact useful?",
       "options": [
-        "The part where I do my own thinking",
-        "The fastest way to get final answers",
-        "The title of the page"
+        "It is long",
+        "It shows a real build or decision",
+        "It uses big words"
       ],
-      "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 1,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Build the Story. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Build the Story. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -898,19 +898,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "QA is product thinking. Broken links and confusing paths matter.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What is the safest school use of AI?",
       "options": [
-        "Confidence means correctness",
-        "Unclear claims should be checked",
-        "A longer answer is always better"
+        "Ask for final answers",
+        "Ask for hints, practice, and feedback",
+        "Submit AI text without reading it"
       ],
       "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Polish the Portal. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Polish the Portal. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -931,19 +931,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A rehearsal is a test run. Feedback creates version 2.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "What belongs in a good demo?",
       "options": [
-        "A finished artifact and reflection",
-        "Only a copied AI answer",
-        "A random fact from the internet"
+        "Only the success",
+        "What worked, what failed, and what changed",
+        "No example"
       ],
-      "answer": 0,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 1,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Rehearse + Improve. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Rehearse + Improve. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."
@@ -964,19 +964,19 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "The final showcase should end with a next roadmap, not just a finish line.",
     "quiz": {
-      "q": "Quick check: what is the best move for this mission?",
+      "q": "When AI is uncertain, what should you do?",
       "options": [
-        "Hide what failed",
-        "Explain what changed from version 1 to version 2",
-        "Avoid showing the artifact"
+        "Label uncertainty and find evidence",
+        "Pretend the answer is complete",
+        "Delete the hard parts"
       ],
-      "answer": 1,
-      "why": "Correct. The goal is to use AI as a coach, then build, check, and improve your own artifact."
+      "answer": 0,
+      "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Final Founder Showcase. Explain the idea simply, ask me 3 questions, then help me build one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission: Final Founder Showcase. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
     "tasks": [
       "Read the AI Power-Up.",
-      "Answer the quick check.",
+      "Answer the quick check correctly.",
       "Copy the prompt and use it in ChatGPT.",
       "Create one real artifact for this mission.",
       "Write a short reflection."

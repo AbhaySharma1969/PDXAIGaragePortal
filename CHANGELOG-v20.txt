@@ -1,0 +1,1 @@
+v20: Improved Mission Player layout and moved mission browser out of the primary view. Added cleaner lesson cards and stronger visual hierarchy.

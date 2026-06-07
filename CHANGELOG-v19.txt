@@ -1,0 +1,1 @@
+v19: Reduced main navigation and homepage entry points. Main flow became Home -> Start Mission -> Roadmap/Parent only.
