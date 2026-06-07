@@ -1,0 +1,3 @@
+PDX AI Garage Portal v18 Clean Player
+
+Fixes visual cache issue with CSS versioning and redesigns the mission player around the lesson card, not the mission map.
