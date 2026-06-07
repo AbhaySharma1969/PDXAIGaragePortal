@@ -82,7 +82,7 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: AI Can Be Wrong. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my AI fact-checking coach. Give me 5 claims and help me label them Green, Yellow, or Red. For every Yellow or Red claim, explain what evidence would be needed before trusting it.",
     "tasks": [
       "Read the AI Power-Up.",
       "Answer the quick check correctly.",
@@ -90,7 +90,7 @@ window.PDX_MISSIONS = [
       "Create one real artifact for this mission.",
       "Write a short reflection."
     ],
-    "artifact": "One usable artifact for AI Can Be Wrong.",
+    "artifact": "A Green / Yellow / Red trust checklist for checking AI answers.",
     "reflection": [
       "What did AI help with?",
       "What did you change yourself?",
@@ -205,11 +205,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A neutral timeline shows what happened, what source supports it, and what is still unknown.",
     "quiz": {
-      "q": "Which action best matches this mission?",
+      "q": "What is a good version 2 habit?",
       "options": [
-        "Copy the AI output exactly",
-        "Use AI to make a draft, then improve it yourself",
-        "Skip the activity"
+        "Ignore feedback",
+        "Change one thing and test again",
+        "Start over randomly"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -228,7 +228,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Prompting"
+    "skill": "Critique"
   },
   {
     "day": 8,
@@ -238,11 +238,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Loaded language can quietly push the reader toward one side. Neutral rewrites help you think more fairly.",
     "quiz": {
-      "q": "What should you do before trusting an AI answer?",
+      "q": "What should a student be able to explain?",
       "options": [
-        "Check the important claims",
-        "Assume it is right if it sounds confident",
-        "Only look at the first sentence"
+        "Why the artifact works",
+        "Only which button they clicked",
+        "Nothing if AI made it"
       ],
       "answer": 0,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -261,7 +261,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Verification"
+    "skill": "Demo"
   },
   {
     "day": 9,
@@ -271,11 +271,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Balanced writing means giving each side its strongest honest version while labeling missing facts.",
     "quiz": {
-      "q": "What makes an artifact useful?",
+      "q": "Which action best matches this mission?",
       "options": [
-        "It is long",
-        "It shows a real build or decision",
-        "It uses big words"
+        "Copy the AI output exactly",
+        "Use AI to make a draft, then improve it yourself",
+        "Skip the activity"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -294,7 +294,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Ethics"
+    "skill": "Prompting"
   },
   {
     "day": 10,
@@ -304,13 +304,13 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Ethical decisions consider stakeholders, risk, responsibility, and fair next steps.",
     "quiz": {
-      "q": "What is the safest school use of AI?",
+      "q": "What should you do before trusting an AI answer?",
       "options": [
-        "Ask for final answers",
-        "Ask for hints, practice, and feedback",
-        "Submit AI text without reading it"
+        "Check the important claims",
+        "Assume it is right if it sounds confident",
+        "Only look at the first sentence"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
     "prompt": "Act as my 9th-grade AI learning coach. Mission: Ethics Brief. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
@@ -327,7 +327,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Tutoring"
+    "skill": "Verification"
   },
   {
     "day": 11,
@@ -337,16 +337,16 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can help with school when it quizzes, hints, and corrects instead of simply giving answers.",
     "quiz": {
-      "q": "What belongs in a good demo?",
+      "q": "What makes an artifact useful?",
       "options": [
-        "Only the success",
-        "What worked, what failed, and what changed",
-        "No example"
+        "It is long",
+        "It shows a real build or decision",
+        "It uses big words"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Spanish Vocab Coach. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my Spanish 1\u20132 vocabulary coach. Quiz me one word at a time from this list: [paste words]. Give a hint before the answer, correct me gently, and after 10 questions show my weak words and a 10-minute review plan.",
     "tasks": [
       "Read the AI Power-Up.",
       "Answer the quick check correctly.",
@@ -354,13 +354,13 @@ window.PDX_MISSIONS = [
       "Create one real artifact for this mission.",
       "Write a short reflection."
     ],
-    "artifact": "One usable artifact for Spanish Vocab Coach.",
+    "artifact": "A Spanish vocab quiz coach with hints and weak-word review.",
     "reflection": [
       "What did AI help with?",
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Planning"
+    "skill": "Ethics"
   },
   {
     "day": 12,
@@ -370,13 +370,13 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Conversation practice improves when AI asks one question at a time and corrects gently.",
     "quiz": {
-      "q": "When AI is uncertain, what should you do?",
+      "q": "What is the safest school use of AI?",
       "options": [
-        "Label uncertainty and find evidence",
-        "Pretend the answer is complete",
-        "Delete the hard parts"
+        "Ask for final answers",
+        "Ask for hints, practice, and feedback",
+        "Submit AI text without reading it"
       ],
-      "answer": 0,
+      "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
     "prompt": "Act as my 9th-grade AI learning coach. Mission: Spanish Conversation Bot. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
@@ -393,7 +393,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Building"
+    "skill": "Tutoring"
   },
   {
     "day": 13,
@@ -403,11 +403,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A good math tutor asks what step you would try before showing a solution.",
     "quiz": {
-      "q": "Which action best matches this mission?",
+      "q": "What belongs in a good demo?",
       "options": [
-        "Copy the AI output exactly",
-        "Use AI to make a draft, then improve it yourself",
-        "Skip the activity"
+        "Only the success",
+        "What worked, what failed, and what changed",
+        "No example"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -426,7 +426,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Prompting"
+    "skill": "Planning"
   },
   {
     "day": 14,
@@ -436,11 +436,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A useful study guide turns notes into examples, practice questions, and a review plan.",
     "quiz": {
-      "q": "What should you do before trusting an AI answer?",
+      "q": "When AI is uncertain, what should you do?",
       "options": [
-        "Check the important claims",
-        "Assume it is right if it sounds confident",
-        "Only look at the first sentence"
+        "Label uncertainty and find evidence",
+        "Pretend the answer is complete",
+        "Delete the hard parts"
       ],
       "answer": 0,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -459,7 +459,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Verification"
+    "skill": "Building"
   },
   {
     "day": 15,
@@ -469,11 +469,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A school AI tool should protect learning by forcing practice, explanation, and revision.",
     "quiz": {
-      "q": "What makes an artifact useful?",
+      "q": "What is a good version 2 habit?",
       "options": [
-        "It is long",
-        "It shows a real build or decision",
-        "It uses big words"
+        "Ignore feedback",
+        "Change one thing and test again",
+        "Start over randomly"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -492,7 +492,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Ethics"
+    "skill": "Critique"
   },
   {
     "day": 16,
@@ -502,16 +502,16 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can help create realistic practice plans with measurable targets and reflection.",
     "quiz": {
-      "q": "What is the safest school use of AI?",
+      "q": "What should a student be able to explain?",
       "options": [
-        "Ask for final answers",
-        "Ask for hints, practice, and feedback",
-        "Submit AI text without reading it"
+        "Why the artifact works",
+        "Only which button they clicked",
+        "Nothing if AI made it"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Basketball Coach. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Act as my basketball training coach. I am a 9th grader. Build a realistic 7-day practice plan for [shooting / handles / defense / conditioning]. Include warmup, 3 drills per day, measurable target, and one reflection question. Keep it safe and realistic.",
     "tasks": [
       "Read the AI Power-Up.",
       "Answer the quick check correctly.",
@@ -519,13 +519,13 @@ window.PDX_MISSIONS = [
       "Create one real artifact for this mission.",
       "Write a short reflection."
     ],
-    "artifact": "One usable artifact for Basketball Coach.",
+    "artifact": "A realistic 7-day basketball practice plan with measurable targets.",
     "reflection": [
       "What did AI help with?",
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Tutoring"
+    "skill": "Demo"
   },
   {
     "day": 17,
@@ -535,11 +535,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "Reflection turns practice into learning. AI can help spot patterns in your notes.",
     "quiz": {
-      "q": "What belongs in a good demo?",
+      "q": "Which action best matches this mission?",
       "options": [
-        "Only the success",
-        "What worked, what failed, and what changed",
-        "No example"
+        "Copy the AI output exactly",
+        "Use AI to make a draft, then improve it yourself",
+        "Skip the activity"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -558,7 +558,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Planning"
+    "skill": "Prompting"
   },
   {
     "day": 18,
@@ -568,11 +568,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A good habit system is simple, visible, and motivating enough to use repeatedly.",
     "quiz": {
-      "q": "When AI is uncertain, what should you do?",
+      "q": "What should you do before trusting an AI answer?",
       "options": [
-        "Label uncertainty and find evidence",
-        "Pretend the answer is complete",
-        "Delete the hard parts"
+        "Check the important claims",
+        "Assume it is right if it sounds confident",
+        "Only look at the first sentence"
       ],
       "answer": 0,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -591,7 +591,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Building"
+    "skill": "Verification"
   },
   {
     "day": 19,
@@ -601,11 +601,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can observe visible patterns, but it should not pretend to be a certified coach or doctor.",
     "quiz": {
-      "q": "Which action best matches this mission?",
+      "q": "What makes an artifact useful?",
       "options": [
-        "Copy the AI output exactly",
-        "Use AI to make a draft, then improve it yourself",
-        "Skip the activity"
+        "It is long",
+        "It shows a real build or decision",
+        "It uses big words"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -624,7 +624,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Prompting"
+    "skill": "Ethics"
   },
   {
     "day": 20,
@@ -634,13 +634,13 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A product demo should show a real example, a weakness, and the next version.",
     "quiz": {
-      "q": "What should you do before trusting an AI answer?",
+      "q": "What is the safest school use of AI?",
       "options": [
-        "Check the important claims",
-        "Assume it is right if it sounds confident",
-        "Only look at the first sentence"
+        "Ask for final answers",
+        "Ask for hints, practice, and feedback",
+        "Submit AI text without reading it"
       ],
-      "answer": 0,
+      "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
     "prompt": "Act as my 9th-grade AI learning coach. Mission: Sports Tech Demo. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
@@ -657,7 +657,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Verification"
+    "skill": "Tutoring"
   },
   {
     "day": 21,
@@ -667,16 +667,16 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A scorecard can estimate value only if it labels missing data and confidence.",
     "quiz": {
-      "q": "What makes an artifact useful?",
+      "q": "What belongs in a good demo?",
       "options": [
-        "It is long",
-        "It shows a real build or decision",
-        "It uses big words"
+        "Only the success",
+        "What worked, what failed, and what changed",
+        "No example"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: LEGO Price Estimator. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Create a LEGO resale value scorecard. Score rarity, condition, completeness, box/manuals, demand, and comparable prices from 1\u20135. Include a confidence rating and clearly mark missing data. Do not invent prices.",
     "tasks": [
       "Read the AI Power-Up.",
       "Answer the quick check correctly.",
@@ -684,13 +684,13 @@ window.PDX_MISSIONS = [
       "Create one real artifact for this mission.",
       "Write a short reflection."
     ],
-    "artifact": "One usable artifact for LEGO Price Estimator.",
+    "artifact": "A LEGO resale value scorecard with confidence rating.",
     "reflection": [
       "What did AI help with?",
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Ethics"
+    "skill": "Planning"
   },
   {
     "day": 22,
@@ -700,13 +700,13 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A decision matrix makes tradeoffs visible instead of hiding them behind one recommendation.",
     "quiz": {
-      "q": "What is the safest school use of AI?",
+      "q": "When AI is uncertain, what should you do?",
       "options": [
-        "Ask for final answers",
-        "Ask for hints, practice, and feedback",
-        "Submit AI text without reading it"
+        "Label uncertainty and find evidence",
+        "Pretend the answer is complete",
+        "Delete the hard parts"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
     "prompt": "Act as my 9th-grade AI learning coach. Mission: E-bike Comparison Tool. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
@@ -723,7 +723,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Tutoring"
+    "skill": "Building"
   },
   {
     "day": 23,
@@ -733,11 +733,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "AI can help write code, but you should understand the purpose of each section.",
     "quiz": {
-      "q": "What belongs in a good demo?",
+      "q": "What is a good version 2 habit?",
       "options": [
-        "Only the success",
-        "What worked, what failed, and what changed",
-        "No example"
+        "Ignore feedback",
+        "Change one thing and test again",
+        "Start over randomly"
       ],
       "answer": 1,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -756,7 +756,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Planning"
+    "skill": "Critique"
   },
   {
     "day": 24,
@@ -766,11 +766,11 @@ window.PDX_MISSIONS = [
     "time": "25\u201335 min",
     "concept": "A founder looks for friction. Confusing parts are product opportunities.",
     "quiz": {
-      "q": "When AI is uncertain, what should you do?",
+      "q": "What should a student be able to explain?",
       "options": [
-        "Label uncertainty and find evidence",
-        "Pretend the answer is complete",
-        "Delete the hard parts"
+        "Why the artifact works",
+        "Only which button they clicked",
+        "Nothing if AI made it"
       ],
       "answer": 0,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
@@ -789,7 +789,7 @@ window.PDX_MISSIONS = [
       "What did you change yourself?",
       "What should version 2 improve?"
     ],
-    "skill": "Building"
+    "skill": "Demo"
   },
   {
     "day": 25,
@@ -973,7 +973,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The best AI learning move is to stay active: check, build, revise, and explain your thinking."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission: Final Founder Showcase. Explain the idea simply. Ask me 3 questions. Help me create one useful artifact. Do not do all the thinking for me. Coach me step by step and end by asking what version 2 should improve.",
+    "prompt": "Create a final reflection after my showcase. Include what I built, 3 AI skills I learned, one mistake I corrected, the artifact I am proudest of, and what I would build next for PDX AI Garage.",
     "tasks": [
       "Read the AI Power-Up.",
       "Answer the quick check correctly.",
@@ -981,7 +981,7 @@ window.PDX_MISSIONS = [
       "Create one real artifact for this mission.",
       "Write a short reflection."
     ],
-    "artifact": "One usable artifact for Final Founder Showcase.",
+    "artifact": "A final founder showcase reflection and next-version roadmap.",
     "reflection": [
       "What did AI help with?",
       "What did you change yourself?",

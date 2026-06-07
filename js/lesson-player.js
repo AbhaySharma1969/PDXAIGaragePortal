@@ -9,7 +9,7 @@ function saveReflection(){if($("reflection"))localStorage.setItem("pdx_reflect_"
 function stageName(i){return ["Learn","Check","Practice","Build","Reflect"][i]}
 function render(){
  const x=m(),done=doneSet();localStorage.setItem("pdx_current",String(current));quizPassed=false;usedPrompt=false;document.title=`Mission ${x.day}: ${x.title} | PDX AI Garage`;
- $("counter").textContent=`Mission ${x.day} of ${missions.length}`;$("title").textContent=x.title;$("goal").textContent=x.artifact;$("module").textContent=`Week ${x.week}: ${x.module}`;$("time").textContent=x.time;$("skill").textContent=`Skill: ${x.skill}`;$("complete").textContent=done.has(x.day)?"Completed":"In progress";$("bar").style.width=Math.round(x.day/missions.length*100)+"%";
+ $("counter").textContent=`Mission ${x.day} of ${missions.length}`;$("title").textContent=x.title;$("goal").textContent=x.artifact;$("module").textContent=`Week ${x.week}: ${x.module}`;$("time").textContent=x.time;$("skill").textContent=`Skill: ${x.skill}`;$("complete").textContent=done.has(x.day)?"Completed":"In progress";$("complete").className="pill "+(done.has(x.day)?"done":"");$("bar").style.width=Math.round(x.day/missions.length*100)+"%";
  $("concept").textContent=x.concept;$("quizQuestion").textContent=x.quiz.q;$("quizOptions").innerHTML=x.quiz.options.map((o,i)=>`<button class="quiz-option" data-i="${i}">${esc(o)}</button>`).join("");$("prompt").textContent=x.prompt;$("taskList").innerHTML=x.tasks.map((t,i)=>`<label class="task"><input type="checkbox" class="taskBox"><span>${esc(t)}</span></label>`).join("");$("artifact").textContent=x.artifact;$("reflectList").innerHTML=x.reflection.map(q=>`<li>${esc(q)}</li>`).join("");$("reflection").value=localStorage.getItem("pdx_reflect_"+x.day)||"";
  $("map").innerHTML=missions.map(item=>`<a class="mission-dot ${item.day===x.day?'active':''} ${done.has(item.day)?'done':''}" href="mission-player.html?mission=${item.day}">${item.day}</a>`).join("");
  $("prev").href=`mission-player.html?mission=${Math.max(1,x.day-1)}`;$("prev").style.visibility=x.day===1?"hidden":"visible";$("next").href=x.day===missions.length?"showcase.html":`mission-player.html?mission=${x.day+1}`;$("next").textContent=x.day===missions.length?"Showcase":`Next Mission ${x.day+1}`;
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded",()=>{
  $("usedPrompt").onclick=()=>{usedPrompt=true;$("practiceNext").disabled=false;document.querySelectorAll(".step")[2].classList.add("done")};
  $("practiceNext").onclick=()=>{if(usedPrompt)gotoStage(3)};
  $("buildNext").onclick=()=>gotoStage(4);
- $("finish").onclick=()=>{saveReflection();mark(m().day);$("completion").classList.add("show");document.querySelectorAll(".step")[4].classList.add("done");};
+ $("finish").onclick=()=>{saveReflection();mark(m().day);$("completion").classList.add("show");document.querySelectorAll(".step")[4].classList.add("done");$("complete").textContent="Completed";$("complete").className="pill done";};
  $("reflection").oninput=saveReflection;
  render();
 });
