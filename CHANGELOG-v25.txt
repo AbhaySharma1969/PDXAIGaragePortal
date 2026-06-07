@@ -1,0 +1,18 @@
+PDX AI Garage Portal - v25 Teaching Curriculum
+
+Major teaching upgrade:
+- Rebuilt 30 missions into six modules:
+  1. AI Fundamentals & Literacy
+  2. Prompt Engineering & Generative AI
+  3. Machine Learning: Hands-On Building
+  4. Python & Coding for AI
+  5. AI Apps & Real-World Prototypes
+  6. Capstone: Founder Showcase
+
+Updated:
+- roadmap.html
+- teaching-guide.html
+- resources.html
+- mission-player.html
+- js/missions-data.js
+- js/lesson-player.js
