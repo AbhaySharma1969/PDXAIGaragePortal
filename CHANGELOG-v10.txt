@@ -1,0 +1,24 @@
+PDX AI Garage Portal - Version 10 Mission Flow Fix
+
+Problem fixed:
+- A student clicking Lesson 1 landed on a static mission page with no obvious clickable next step.
+
+New:
+- Every Day 1–30 mission page now has a visible Student Launch Controls panel at the top.
+- Each mission page links to:
+  - Start Learning Path
+  - Relevant AI Lab
+  - Relevant module page
+  - Prompt Library
+  - All Lessons
+- Every mission page now has a sticky Previous / Next Mission bar.
+- Mission navigation simplified.
+- Added student-route-test.html for quick testing.
+- Lesson Plans now has Start Student Workflow and Start Day 1 buttons.
+
+Recommended test:
+1. Open /student-route-test.html
+2. Open Day 1
+3. Confirm top launch controls appear
+4. Click Next Mission
+5. Confirm Day 2 opens
