@@ -1,0 +1,20 @@
+PDX AI Garage Portal - Version 7 AI Learning Layer
+
+Built from v6.1 QA cleanup.
+
+New in v7:
+- Added AI Learning Lab hub.
+- Added AI Basics page with quiz and starter prompt.
+- Added Prompt Workshop with interactive prompt builder.
+- Added Verification Lab with claim-checking workspace.
+- Added Ethics + Safety page with rules and scenario quiz.
+- Added AI Modes page: tutor, critic, coach, analyst, builder, editor.
+- Added Build With AI page with prototype planner.
+- Added AI Glossary.
+- Added AI Challenges bonus XP page.
+- Added copy buttons, quiz behavior, prompt builder, verification checklist generator, and prototype planner to app.js.
+- Updated homepage, dashboard, prompt library, and testing checklist to connect the AI learning layer.
+
+Important note:
+- This version does not call a live AI API. It is designed to work safely on GitHub Pages without exposing any API key.
+- A real live chatbot can be added later with a secure backend or managed AI service.

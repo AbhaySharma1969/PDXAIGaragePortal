@@ -33,3 +33,6 @@ Version 5 additions:
 
 
 Version 6: Full 30-day build completed through Day 30 with Week 4, Week 5, and Week 6 modules.
+
+
+Version 7: Added the AI Learning Layer with interactive learning labs, quizzes, prompt builder, verification lab, ethics rules, AI modes, glossary, and challenges.

@@ -40,3 +40,73 @@ function setupMobileMenu(){
   button.addEventListener('click',()=>links.classList.toggle('open'));
 }
 setupMobileMenu();
+
+function setupCopyButtons(){
+  document.querySelectorAll('[data-copy-target]').forEach(btn=>{
+    btn.addEventListener('click', async ()=>{
+      const target=document.getElementById(btn.dataset.copyTarget);
+      if(!target)return;
+      const text=target.innerText || target.textContent;
+      try{await navigator.clipboard.writeText(text); btn.textContent='Copied!'; setTimeout(()=>btn.textContent='Copy',1200);}
+      catch(e){btn.textContent='Select + copy';}
+    });
+  });
+}
+function setupQuizzes(){
+  document.querySelectorAll('.quiz-card').forEach(card=>{
+    const feedback=card.querySelector('.feedback');
+    card.querySelectorAll('.quiz-option').forEach(option=>{
+      option.addEventListener('click',()=>{
+        card.querySelectorAll('.quiz-option').forEach(o=>o.classList.remove('correct','wrong'));
+        const correct=option.dataset.correct==='true';
+        option.classList.add(correct?'correct':'wrong');
+        if(feedback) feedback.textContent = correct ? 'Correct. AI is useful, but human judgment stays in charge.' : 'Not quite. Try again and look for the answer that keeps human judgment involved.';
+      });
+    });
+  });
+}
+function setupPromptBuilder(){
+  const btn=document.getElementById('buildPromptBtn');
+  const input=document.getElementById('promptInput');
+  const output=document.getElementById('promptOutput');
+  const copy=document.getElementById('copyBuiltPrompt');
+  if(!btn||!input||!output)return;
+  btn.addEventListener('click',()=>{
+    const idea=input.value.trim() || '[describe your goal here]';
+    output.textContent=`Act as a practical AI learning coach.\n\nMy goal/context: ${idea}\n\nYour task:\n1. Ask up to 3 clarifying questions if needed.\n2. Give a clear step-by-step answer.\n3. Use simple 9th-grade language.\n4. Include one example.\n5. Warn me about anything I should verify.\n6. End with one action I can take today.\n\nFormat your answer as: Summary, Steps, Example, Check/Verify, Next Action.`;
+  });
+  if(copy){
+    copy.addEventListener('click', async ()=>{
+      try{await navigator.clipboard.writeText(output.textContent); copy.textContent='Copied!'; setTimeout(()=>copy.textContent='Copy Built Prompt',1200);}catch(e){}
+    });
+  }
+}
+function setupVerificationLab(){
+  const btn=document.getElementById('verifyBtn');
+  const input=document.getElementById('verifyInput');
+  const output=document.getElementById('verifyOutput');
+  const copy=document.getElementById('copyVerify');
+  if(!btn||!input||!output)return;
+  btn.addEventListener('click',()=>{
+    const claim=input.value.trim() || '[paste AI answer here]';
+    output.textContent=`Verification checklist for:\n${claim}\n\n1. Break the answer into separate claims.\n2. Mark each claim Green, Yellow, or Red.\n3. For Yellow claims, find a reliable source before trusting.\n4. For Red claims, do not use until verified by strong evidence.\n5. Rewrite the final answer with uncertainty clearly labeled.\n\nCopy this into AI:\nBreak this into claims and label each Green, Yellow, or Red. Tell me what evidence is needed for every Yellow or Red claim.`;
+  });
+  if(copy){copy.addEventListener('click', async ()=>{try{await navigator.clipboard.writeText(output.textContent); copy.textContent='Copied!'; setTimeout(()=>copy.textContent='Copy Checklist',1200);}catch(e){}});}
+}
+function setupPrototypePlanner(){
+  const btn=document.getElementById('prototypeBtn');
+  const input=document.getElementById('prototypeInput');
+  const output=document.getElementById('prototypeOutput');
+  const copy=document.getElementById('copyPrototype');
+  if(!btn||!input||!output)return;
+  btn.addEventListener('click',()=>{
+    const idea=input.value.trim() || '[prototype idea]';
+    output.textContent=`Prototype build plan\n\nIdea: ${idea}\n\n1. User: Who is this for?\n2. Problem: What problem does it solve?\n3. Inputs: What information does the tool need?\n4. Output: What should the tool produce?\n5. AI role: Should AI be a coach, analyst, builder, or critic?\n6. Test case: Try one realistic example.\n7. Weakness: What could be wrong or missing?\n8. Version 2: What should improve next?`;
+  });
+  if(copy){copy.addEventListener('click', async ()=>{try{await navigator.clipboard.writeText(output.textContent); copy.textContent='Copied!'; setTimeout(()=>copy.textContent='Copy Build Plan',1200);}catch(e){}});}
+}
+setupCopyButtons();
+setupQuizzes();
+setupPromptBuilder();
+setupVerificationLab();
+setupPrototypePlanner();

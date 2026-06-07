@@ -1,0 +1,20 @@
+PDX AI Garage Portal - v6.1 QA Cleanup
+
+Checked:
+- Day 1 through Day 30 mission files exist.
+- Dashboard mission JavaScript lists Day 1 through Day 30.
+- No missing local href/src file links found in the package.
+- No mismatched main/nav/footer/body/html tag counts found in the package.
+- Prompt Library closing main tag issue remains fixed.
+- Mobile hamburger JS remains included.
+
+Fixes in v6.1:
+- Dashboard stale label changed from Portal v5 to Portal v6.
+- Dashboard board updated to summarize Days 1–10, 11–20, and 21–30.
+- Added small module note to Sports + Habits, Mini Apps, and Final Sprint pages.
+- Testing page labeled as v6.1 QA check.
+
+Known intentional prototype limitations:
+- XP progress is static, not database-driven yet.
+- Mission logs are templates, not interactive forms yet.
+- Dashboard mission completion does not persist yet.
