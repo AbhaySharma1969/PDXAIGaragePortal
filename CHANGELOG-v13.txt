@@ -1,0 +1,13 @@
+PDX AI Garage Portal - Version 13 Week 1 Sprint
+
+New:
+- week-1-sprint.html hub.
+- session-01.html through session-05.html guided sessions.
+- Each session includes Learn / Coach / Build structure.
+- Each session has copyable coach prompt, artifact output, mission link, and next-session playbar.
+- First Session now leads into Week 1 Sprint.
+- Day 1–5 missions link back to Guided Session.
+- Navigation includes Week 1.
+
+Purpose:
+- Make Week 1 feel like an actual learning product, not a static list of pages.
