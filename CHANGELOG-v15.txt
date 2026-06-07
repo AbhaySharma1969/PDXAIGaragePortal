@@ -1,0 +1,34 @@
+PDX AI Garage Portal - Version 15 Final Guided Sessions
+
+This is the final consolidated guided-session package.
+
+New:
+- sprints.html full sprint map.
+- week-3-school-sprint.html.
+- week-4-sports-sprint.html.
+- week-5-prototype-sprint.html.
+- week-6-showcase-sprint.html.
+- session-11.html through session-30.html.
+- final-session-qa.html.
+- QA-REPORT-v15.txt.
+
+Now complete:
+- Week 1 guided sessions: Session 1–5.
+- Week 2 guided sessions: Session 6–10.
+- Week 3 guided sessions: Session 11–15.
+- Week 4 guided sessions: Session 16–20.
+- Week 5 guided sessions: Session 21–25.
+- Week 6 guided sessions: Session 26–30.
+
+Each new guided session includes:
+- Learn / Coach / Build structure.
+- Copyable coach prompt.
+- ChatGPT link.
+- Official mission link.
+- Artifact output.
+- Previous / Next playbar.
+
+Recommended upload:
+- Upload the contents of this zip to the repo root.
+- Commit changes.
+- Start testing at /final-session-qa.html and /sprints.html.

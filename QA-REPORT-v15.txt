@@ -1,0 +1,10 @@
+PDX AI Garage Portal - v15 Final Guided Sessions QA
+
+Added:
+- Guided Sessions 11–30
+- Week 3, Week 4, Week 5, Week 6 sprint hubs
+- Sprints map
+- Final session QA checklist
+
+Internal local link check:
+No missing local href/src files found in generated package.
