@@ -1,0 +1,17 @@
+PDX AI Garage Portal - Version 9 Student AI Journey
+
+Purpose:
+- Simplify the student experience into one clean start-to-finish workflow.
+- No login required.
+- No workspace dependency.
+- The student can click Start Learning AI and move step-by-step through the whole portal.
+
+New:
+- learn-ai.html: main guided student path from beginner AI learning to founder showcase.
+- workflow-map.html: background link map of the whole site.
+- Next-step bar added to AI Basics, Prompt Workshop, Verification Lab, Ethics, AI Modes, Build With AI, Lesson Plans, and Showcase.
+- Navigation simplified around the student journey.
+- Homepage primary CTA changed to Start Learning AI.
+
+Recommended student path:
+Home → Start Learning AI → AI Basics → Prompt Workshop → Verification Lab → Ethics + Safety → AI Modes → Build With AI → 30-Day Missions → Founder Showcase.
