@@ -1,0 +1,17 @@
+PDX AI Garage Portal - Version 12 First Session
+
+New:
+- first-session.html guided 45–60 minute first session.
+- Homepage now points to Start First Session.
+- Mission pages and navigation include First Session.
+- First session provides a clear student path:
+  1. Understand the goal
+  2. Learn AI basics
+  3. Copy first coach prompt
+  4. Paste into ChatGPT
+  5. Complete Day 1
+  6. Reflect
+
+Purpose:
+- Make the very first student experience obvious and usable.
+- No login, no workspace, no API key.
