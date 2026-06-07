@@ -1,0 +1,21 @@
+PDX AI Garage Portal - Version 8 Student Workspace
+
+Built from v7 AI Learning Layer.
+
+New in v8:
+- Added workspace.html Student Workspace.
+- Added mission logging form with local browser storage.
+- Added local XP tracking, completed mission count, artifact count, and badge count.
+- Added local progress ring.
+- Added saved mission log list with filters.
+- Added export progress as JSON.
+- Added clear local progress option.
+- Added artifact-vault.html to display saved artifacts.
+- Added badge-board.html with badge rules and progress.
+- Updated dashboard/home/start/missions navigation to link Workspace.
+- Updated testing checklist for workspace, vault, and badges.
+
+Important:
+- This is still GitHub Pages friendly. No backend or API key required.
+- Progress is saved only in the browser/device where the student uses it.
+- A future backend could sync progress across devices and make accounts possible.
