@@ -1,0 +1,18 @@
+PDX AI Garage Portal - Version 4
+
+Built from the Version 3 baseline.
+
+New in v4:
+- Week 2 LEGO Case File module expanded.
+- Added detailed Day 6 mission: Facts vs Claims vs Opinions.
+- Added detailed Day 7 mission: Build a Neutral Timeline.
+- Added detailed Day 8 mission: Bias Detector.
+- Added detailed Day 9 mission: Write Both Sides Fairly.
+- Added detailed Day 10 mission: Founder Ethics Brief.
+- Updated LEGO Case File landing page with Week 2 mission map.
+- Added Testing Checklist page.
+- Updated dashboard mission cards for Day 1 through Day 10.
+- Updated Lesson Plans with quick launch links for Day 1 through Day 10.
+- Added README upload/testing notes.
+
+Upload this whole package into the GitHub repo root after unzipping.
