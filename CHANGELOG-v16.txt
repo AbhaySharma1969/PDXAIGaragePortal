@@ -1,0 +1,17 @@
+PDX AI Garage Portal - Version 16 Mission Player Rebuild
+
+Purpose:
+- Replace the clunky multi-page student workflow with one simple Mission Player.
+- Main flow: Home → Mission Player → Copy Prompt → Build → Reflect → Next Mission.
+- Old sprints/session pages remain in Archive.
+
+New:
+- mission-player.html
+- js/missions-data.js
+- js/mission-player.js
+- parent-guide.html
+- archive.html
+- v16-qa.html
+- Simplified homepage/navigation/projects page
+
+No login or backend required. Progress/reflections save locally on this browser only.
