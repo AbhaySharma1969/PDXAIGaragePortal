@@ -1,0 +1,14 @@
+PDX AI Garage Portal - Version 14 Week 2 LEGO Investigation Sprint
+
+New:
+- week-2-lego-sprint.html hub.
+- session-06.html through session-10.html guided sessions.
+- Each session includes Learn / Coach / Build structure.
+- Each session has copyable investigation coach prompt, mission link, case file rule, and next-session playbar.
+- Day 6–10 missions link back to Guided Session.
+- LEGO Case File links to Week 2 Sprint.
+- Navigation includes Week 2.
+
+Purpose:
+- Turn the LEGO investigation module into a guided AI learning product.
+- Teach careful AI use: facts vs claims, timeline, bias, balance, ethics.
