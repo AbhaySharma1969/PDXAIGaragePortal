@@ -23,3 +23,10 @@ Upload instructions:
 3. Drag the contents into the GitHub repo root.
 4. Commit changes.
 5. Test https://pdxaigarage.com/testing-checklist.html
+
+
+Version 5 additions:
+- Week 3 School Tools module
+- Day 11–15 detailed mission pages
+- school-tools.html hub
+- Dashboard and testing updates through Day 15

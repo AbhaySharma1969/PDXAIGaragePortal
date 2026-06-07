@@ -1,0 +1,19 @@
+PDX AI Garage Portal - Version 5
+
+Built from Version 4 baseline.
+
+New in v5:
+- Added Week 3 AI for School Without Cheating module.
+- Added school-tools.html hub page.
+- Added detailed Day 11 mission: Spanish Coach Vocabulary Builder.
+- Added detailed Day 12 mission: Spanish Conversation Bot.
+- Added detailed Day 13 mission: Algebra Helper That Teaches.
+- Added detailed Day 14 mission: Study Guide Generator.
+- Added detailed Day 15 mission: School Tool Demo Day.
+- Updated dashboard mission cards for Day 1 through Day 15.
+- Updated lesson-plan quick launch links through Day 15.
+- Updated projects page with School Tools link.
+- Added school-safe prompt examples to Prompt Library.
+- Updated testing checklist for Week 3.
+
+Upload this whole package into the GitHub repo root after unzipping.

@@ -8,7 +8,12 @@ const missions=[
  {day:'Day 7',title:'Build a Neutral Timeline',xp:60,status:'Ready',url:'missions/day-07.html'},
  {day:'Day 8',title:'Bias Detector',xp:55,status:'Ready',url:'missions/day-08.html'},
  {day:'Day 9',title:'Write Both Sides Fairly',xp:65,status:'Ready',url:'missions/day-09.html'},
- {day:'Day 10',title:'Founder Ethics Brief',xp:75,status:'Ready',url:'missions/day-10.html'}
+ {day:'Day 10',title:'Founder Ethics Brief',xp:75,status:'Ready',url:'missions/day-10.html'},
+ {day:'Day 11',title:'Spanish Coach: Vocabulary Builder',xp:50,status:'Ready',url:'missions/day-11.html'},
+ {day:'Day 12',title:'Spanish Conversation Bot',xp:55,status:'Ready',url:'missions/day-12.html'},
+ {day:'Day 13',title:'Algebra Helper That Teaches',xp:60,status:'Ready',url:'missions/day-13.html'},
+ {day:'Day 14',title:'Study Guide Generator',xp:55,status:'Ready',url:'missions/day-14.html'},
+ {day:'Day 15',title:'School Tool Demo Day',xp:70,status:'Ready',url:'missions/day-15.html'}
 ];
 function renderMissions(){const el=document.querySelector('#missionList'); if(!el)return; el.innerHTML=missions.map(m=>`<div class="card mission"><span class="tag">${m.day} · ${m.xp} XP</span><h3>${m.title}</h3><p class="muted">Status: ${m.status}. Complete the build, capture one screenshot, and write one sentence about what worked.</p><a class="btn ghost" href="${m.url}">Open Mission</a></div>`).join('')}
 function setYear(){document.querySelectorAll('.year').forEach(e=>e.textContent=new Date().getFullYear())}
