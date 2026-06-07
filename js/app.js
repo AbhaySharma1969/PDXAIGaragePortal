@@ -1,3 +1,4 @@
+window.pdxGarageAppVersion='8.1-workspace-fix';
 const missions=[
  {day:'Day 1',title:'Build the Garage Identity',xp:40,status:'Ready',url:'missions/day-01.html'},
  {day:'Day 2',title:'Prompt Lab: Make AI Useful',xp:50,status:'Ready',url:'missions/day-02.html'},
@@ -139,7 +140,9 @@ function setupWorkspace(){
   const reflectionEl=document.getElementById('reflection');
   if(daySelect && typeof missions!=='undefined'){
     daySelect.innerHTML=missions.map(m=>`<option value="${m.day}">${m.day}: ${m.title}</option>`).join('');
-    daySelect.addEventListener('change',()=>{const m=missionByNumber(missionNumber(daySelect.value)); if(m) xpEl.value=m.xp;});
+    const setSuggestedXp=()=>{const m=missionByNumber(missionNumber(daySelect.value)); if(m && xpEl) xpEl.value=m.xp;};
+    daySelect.addEventListener('change',setSuggestedXp);
+    setSuggestedXp();
   }
   const fill=document.getElementById('fillTodayBtn');
   if(fill){fill.addEventListener('click',()=>{const m=missionByNumber(missionNumber(daySelect.value)); if(m){xpEl.value=m.xp; if(!artifactEl.value) artifactEl.value=m.title+' artifact';}});}

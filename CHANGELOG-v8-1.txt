@@ -1,0 +1,10 @@
+PDX AI Garage Portal - Version 8.1 Workspace Fix
+
+Fixes:
+- Forces browser to load newest JavaScript using app.js?v=8.1 on all pages.
+- Adds visible app version marker in app.js.
+- Makes Workspace mission dropdown populate suggested XP immediately.
+- Adds workspace-test.html for quick verification.
+
+Most likely issue fixed:
+- Browser/GitHub Pages cache was serving the older app.js, so the new Workspace HTML loaded but controls did not work.
