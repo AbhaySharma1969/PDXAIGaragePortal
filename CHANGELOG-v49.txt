@@ -1,0 +1,11 @@
+PDX AI Garage Portal - v49 Content Quality Release
+
+Focused on:
+- Unique mission content instead of repeated template language.
+- Concept-specific quizzes.
+- Cleaner coach prompts.
+- Week-specific vocabulary.
+- Starter artifact templates in the Build step.
+- Cleaner student navigation.
+- Improved search with filters and matched keyword chips.
+- More human Profile and Certificate language.
