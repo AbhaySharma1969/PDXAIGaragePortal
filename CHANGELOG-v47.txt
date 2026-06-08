@@ -1,0 +1,12 @@
+PDX AI Garage Portal - v47 Search, Profiles, Certificates
+
+Added:
+- search.html with keyword search across missions and major pages.
+- js/search-index.js and js/search.js.
+- profile.html with local student profile creation/selection.
+- js/user-store.js profile-aware local storage.
+- certificate.html printable certificate.
+- js/certificate.js.
+- profile-aware mission progress and portfolio support.
+- enriched mission data with more specific examples, artifacts, and quality bars.
+- AUTH-ROADMAP-v47.txt for real backend authentication later.
