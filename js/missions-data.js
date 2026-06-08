@@ -6,15 +6,15 @@ window.PDX_MISSIONS = [
     "title": "What Is AI?",
     "time": "40\u201360 min",
     "skill": "Foundation",
-    "objective": "Use AI, data, or product thinking to complete: What Is AI?.",
-    "concept": "AI Literacy & Human Judgment: Can you understand AI well enough to use it without being fooled by it? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think What Is AI? means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to What Is AI?. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: What Is AI? connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Build a clear AI explainer that separates AI, ML, deep learning, and generative AI.",
+    "concept": "AI Literacy & Human Judgment: Build a clear AI explainer that separates AI, ML, deep learning, and generative AI. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does What Is AI? matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Use a basketball coach analogy: AI gives suggestions from patterns, but the player still decides and practices.",
+    "realWorld": "Real-world link: What Is AI? connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -24,25 +24,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is the strongest AI learning move?",
       "options": [
-        "Copy the answer exactly",
+        "Copy the AI answer exactly",
         "Build, test, explain, and improve",
         "Skip the reflection"
       ],
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 1: What Is AI?. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: What Is AI? portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 1: What Is AI?. Objective: Build a clear AI explainer that separates AI, ML, deep learning, and generative AI.. Teach the idea simply, ask me 3 questions, then help me build this artifact: One-page AI explainer with analogy, example, and warning.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "What Is AI? portfolio artifact",
+    "artifact": "One-page AI explainer with analogy, example, and warning.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -61,15 +61,15 @@ window.PDX_MISSIONS = [
     "title": "AI Around You",
     "time": "40\u201360 min",
     "skill": "Foundation",
-    "objective": "Use AI, data, or product thinking to complete: AI Around You.",
-    "concept": "AI Literacy & Human Judgment: Can you understand AI well enough to use it without being fooled by it? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think AI Around You means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to AI Around You. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: AI Around You connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Map where AI appears in daily teen life.",
+    "concept": "AI Literacy & Human Judgment: Map where AI appears in daily teen life. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does AI Around You matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Find AI in YouTube, TikTok, maps, school tools, spam filters, shopping, sports stats, and games.",
+    "realWorld": "Real-world link: AI Around You connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -79,25 +79,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What should you do with an uncertain AI claim?",
       "options": [
-        "Label it and seek evidence",
         "Trust it if it sounds confident",
+        "Label it and seek evidence",
         "Hide it"
       ],
-      "answer": 0,
+      "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 2: AI Around You. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: AI Around You portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 2: AI Around You. Objective: Map where AI appears in daily teen life.. Teach the idea simply, ask me 3 questions, then help me build this artifact: AI Around Me map with 10 examples.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "AI Around You portfolio artifact",
+    "artifact": "AI Around Me map with 10 examples.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -116,15 +116,15 @@ window.PDX_MISSIONS = [
     "title": "How Machine Learning Learns",
     "time": "40\u201360 min",
     "skill": "Foundation",
-    "objective": "Use AI, data, or product thinking to complete: How Machine Learning Learns.",
-    "concept": "AI Literacy & Human Judgment: Can you understand AI well enough to use it without being fooled by it? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think How Machine Learning Learns means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to How Machine Learning Learns. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: How Machine Learning Learns connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Explain data, labels, training, testing, and prediction.",
+    "concept": "AI Literacy & Human Judgment: Explain data, labels, training, testing, and prediction. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does How Machine Learning Learns matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Use a LEGO sorter or basketball shot classifier as the example.",
+    "realWorld": "Real-world link: How Machine Learning Learns connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -134,25 +134,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What makes an AI product useful?",
       "options": [
-        "A clear user, problem, data/input, output, and test",
-        "A fancy name only",
+        "Clear user, problem, input, output, and test",
+        "Fancy words only",
         "No human oversight"
       ],
       "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 3: How Machine Learning Learns. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: How Machine Learning Learns portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 3: How Machine Learning Learns. Objective: Explain data, labels, training, testing, and prediction.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Train/test diagram and explanation.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "How Machine Learning Learns portfolio artifact",
+    "artifact": "Train/test diagram and explanation.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -171,15 +171,15 @@ window.PDX_MISSIONS = [
     "title": "Hallucinations & Bias",
     "time": "40\u201360 min",
     "skill": "Foundation",
-    "objective": "Use AI, data, or product thinking to complete: Hallucinations & Bias.",
-    "concept": "AI Literacy & Human Judgment: Can you understand AI well enough to use it without being fooled by it? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Hallucinations & Bias means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Hallucinations & Bias. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Hallucinations & Bias connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Learn to catch confident-but-wrong AI answers and unfair patterns.",
+    "concept": "AI Literacy & Human Judgment: Learn to catch confident-but-wrong AI answers and unfair patterns. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Hallucinations & Bias matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Ask AI for a claim-heavy answer, then audit it with Green/Yellow/Red trust labels.",
+    "realWorld": "Real-world link: Hallucinations & Bias connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -187,7 +187,7 @@ window.PDX_MISSIONS = [
       "Audit": "A structured check for errors, bias, safety, or weak performance."
     },
     "quiz": {
-      "q": "What should a demo include?",
+      "q": "What belongs in a strong demo?",
       "options": [
         "Only success",
         "What worked, failed, changed, and comes next",
@@ -196,18 +196,18 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 4: Hallucinations & Bias. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Hallucinations & Bias portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 4: Hallucinations & Bias. Objective: Learn to catch confident-but-wrong AI answers and unfair patterns.. Teach the idea simply, ask me 3 questions, then help me build this artifact: AI trust checklist with 5 claim examples.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Hallucinations & Bias portfolio artifact",
+    "artifact": "AI trust checklist with 5 claim examples.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -226,15 +226,15 @@ window.PDX_MISSIONS = [
     "title": "AI Literacy Demo",
     "time": "40\u201360 min",
     "skill": "Foundation",
-    "objective": "Use AI, data, or product thinking to complete: AI Literacy Demo.",
-    "concept": "AI Literacy & Human Judgment: Can you understand AI well enough to use it without being fooled by it? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think AI Literacy Demo means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to AI Literacy Demo. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: AI Literacy Demo connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Teach AI literacy to someone else.",
+    "concept": "AI Literacy & Human Judgment: Teach AI literacy to someone else. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does AI Literacy Demo matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Create a two-minute demo for a parent or friend using one analogy, one example, and one warning.",
+    "realWorld": "Real-world link: AI Literacy Demo connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -244,25 +244,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is human judgment for?",
       "options": [
-        "Letting AI decide everything",
         "Checking, choosing, and taking responsibility",
-        "Making prompts longer"
+        "Making prompts longer",
+        "Letting AI decide everything"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 5: AI Literacy Demo. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: AI Literacy Demo portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 5: AI Literacy Demo. Objective: Teach AI literacy to someone else.. Teach the idea simply, ask me 3 questions, then help me build this artifact: 2-minute demo script.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "AI Literacy Demo portfolio artifact",
+    "artifact": "2-minute demo script.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -281,15 +281,15 @@ window.PDX_MISSIONS = [
     "title": "Prompt Formula",
     "time": "40\u201360 min",
     "skill": "Prompting",
-    "objective": "Use AI, data, or product thinking to complete: Prompt Formula.",
-    "concept": "Prompt Engineering & AI Collaboration: Can you turn AI from an answer machine into a thinking partner? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Prompt Formula means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Prompt Formula. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Prompt Formula connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Create a reusable prompt formula.",
+    "concept": "Prompt Engineering & AI Collaboration: Create a reusable prompt formula. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Prompt Formula matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Turn 'help me study' into a role/task/context/constraints/output/quality prompt.",
+    "realWorld": "Real-world link: Prompt Formula connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -299,25 +299,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is the strongest AI learning move?",
       "options": [
-        "Copy the answer exactly",
+        "Copy the AI answer exactly",
         "Build, test, explain, and improve",
         "Skip the reflection"
       ],
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 6: Prompt Formula. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Prompt Formula portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 6: Prompt Formula. Objective: Create a reusable prompt formula.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Prompt formula card.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Prompt Formula portfolio artifact",
+    "artifact": "Prompt formula card.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -336,15 +336,15 @@ window.PDX_MISSIONS = [
     "title": "Prompt Iteration Lab",
     "time": "40\u201360 min",
     "skill": "Prompting",
-    "objective": "Use AI, data, or product thinking to complete: Prompt Iteration Lab.",
-    "concept": "Prompt Engineering & AI Collaboration: Can you turn AI from an answer machine into a thinking partner? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Prompt Iteration Lab means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Prompt Iteration Lab. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Prompt Iteration Lab connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Improve prompts through versioning.",
+    "concept": "Prompt Engineering & AI Collaboration: Improve prompts through versioning. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Prompt Iteration Lab matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Compare v1/v2/v3 outputs and explain what changed.",
+    "realWorld": "Real-world link: Prompt Iteration Lab connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -354,25 +354,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What should you do with an uncertain AI claim?",
       "options": [
-        "Label it and seek evidence",
         "Trust it if it sounds confident",
+        "Label it and seek evidence",
         "Hide it"
       ],
-      "answer": 0,
+      "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 7: Prompt Iteration Lab. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Prompt Iteration Lab portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 7: Prompt Iteration Lab. Objective: Improve prompts through versioning.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Prompt comparison table.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Prompt Iteration Lab portfolio artifact",
+    "artifact": "Prompt comparison table.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -391,15 +391,15 @@ window.PDX_MISSIONS = [
     "title": "AI Roles: Tutor Coach Critic",
     "time": "40\u201360 min",
     "skill": "Prompting",
-    "objective": "Use AI, data, or product thinking to complete: AI Roles: Tutor Coach Critic.",
-    "concept": "Prompt Engineering & AI Collaboration: Can you turn AI from an answer machine into a thinking partner? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think AI Roles: Tutor Coach Critic means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to AI Roles: Tutor Coach Critic. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: AI Roles: Tutor Coach Critic connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Use AI in different roles.",
+    "concept": "Prompt Engineering & AI Collaboration: Use AI in different roles. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does AI Roles: Tutor Coach Critic matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Ask AI to be a tutor, coach, critic, and product mentor for the same problem.",
+    "realWorld": "Real-world link: AI Roles: Tutor Coach Critic connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -409,25 +409,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What makes an AI product useful?",
       "options": [
-        "A clear user, problem, data/input, output, and test",
-        "A fancy name only",
+        "Clear user, problem, input, output, and test",
+        "Fancy words only",
         "No human oversight"
       ],
       "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 8: AI Roles: Tutor Coach Critic. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: AI Roles: Tutor Coach Critic portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 8: AI Roles: Tutor Coach Critic. Objective: Use AI in different roles.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Four role prompts and notes.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "AI Roles: Tutor Coach Critic portfolio artifact",
+    "artifact": "Four role prompts and notes.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -446,15 +446,15 @@ window.PDX_MISSIONS = [
     "title": "Responsible GenAI",
     "time": "40\u201360 min",
     "skill": "Prompting",
-    "objective": "Use AI, data, or product thinking to complete: Responsible GenAI.",
-    "concept": "Prompt Engineering & AI Collaboration: Can you turn AI from an answer machine into a thinking partner? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Responsible GenAI means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Responsible GenAI. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Responsible GenAI connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Create rules for school-safe AI use.",
+    "concept": "Prompt Engineering & AI Collaboration: Create rules for school-safe AI use. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Responsible GenAI matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Focus on privacy, plagiarism, copyright, and attribution.",
+    "realWorld": "Real-world link: Responsible GenAI connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -462,7 +462,7 @@ window.PDX_MISSIONS = [
       "Audit": "A structured check for errors, bias, safety, or weak performance."
     },
     "quiz": {
-      "q": "What should a demo include?",
+      "q": "What belongs in a strong demo?",
       "options": [
         "Only success",
         "What worked, failed, changed, and comes next",
@@ -471,18 +471,18 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 9: Responsible GenAI. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Responsible GenAI portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 9: Responsible GenAI. Objective: Create rules for school-safe AI use.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Personal AI use code.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Responsible GenAI portfolio artifact",
+    "artifact": "Personal AI use code.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -501,15 +501,15 @@ window.PDX_MISSIONS = [
     "title": "Prompt Demo",
     "time": "40\u201360 min",
     "skill": "Prompting",
-    "objective": "Use AI, data, or product thinking to complete: Prompt Demo.",
-    "concept": "Prompt Engineering & AI Collaboration: Can you turn AI from an answer machine into a thinking partner? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Prompt Demo means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Prompt Demo. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Prompt Demo connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Show a before/after prompt demo.",
+    "concept": "Prompt Engineering & AI Collaboration: Show a before/after prompt demo. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Prompt Demo matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Show weak prompt, improved prompt, better output, and why it worked.",
+    "realWorld": "Real-world link: Prompt Demo connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -519,25 +519,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is human judgment for?",
       "options": [
-        "Letting AI decide everything",
         "Checking, choosing, and taking responsibility",
-        "Making prompts longer"
+        "Making prompts longer",
+        "Letting AI decide everything"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 10: Prompt Demo. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Prompt Demo portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 10: Prompt Demo. Objective: Show a before/after prompt demo.. Teach the idea simply, ask me 3 questions, then help me build this artifact: 2-minute prompt demo.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Prompt Demo portfolio artifact",
+    "artifact": "2-minute prompt demo.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -556,15 +556,15 @@ window.PDX_MISSIONS = [
     "title": "Teachable Machine Setup",
     "time": "40\u201360 min",
     "skill": "ML/data",
-    "objective": "Use AI, data, or product thinking to complete: Teachable Machine Setup.",
-    "concept": "Machine Learning & Data Thinking: Can you train, test, and critique a model instead of treating it as magic? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Teachable Machine Setup means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Teachable Machine Setup. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Teachable Machine Setup connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Plan a no-code classifier.",
+    "concept": "Machine Learning & Data Thinking: Plan a no-code classifier. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Teachable Machine Setup matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Choose image, audio, or pose classification with three classes.",
+    "realWorld": "Real-world link: Teachable Machine Setup connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -574,25 +574,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is the strongest AI learning move?",
       "options": [
-        "Copy the answer exactly",
+        "Copy the AI answer exactly",
         "Build, test, explain, and improve",
         "Skip the reflection"
       ],
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 11: Teachable Machine Setup. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Teachable Machine Setup portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 11: Teachable Machine Setup. Objective: Plan a no-code classifier.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Teachable Machine project plan.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Teachable Machine Setup portfolio artifact",
+    "artifact": "Teachable Machine project plan.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -611,15 +611,15 @@ window.PDX_MISSIONS = [
     "title": "Data Collection Challenge",
     "time": "40\u201360 min",
     "skill": "ML/data",
-    "objective": "Use AI, data, or product thinking to complete: Data Collection Challenge.",
-    "concept": "Machine Learning & Data Thinking: Can you train, test, and critique a model instead of treating it as magic? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Data Collection Challenge means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Data Collection Challenge. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Data Collection Challenge connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Collect balanced examples.",
+    "concept": "Machine Learning & Data Thinking: Collect balanced examples. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Data Collection Challenge matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Plan 20 examples per class and note lighting, background, angle, sound, or pose issues.",
+    "realWorld": "Real-world link: Data Collection Challenge connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -629,25 +629,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What should you do with an uncertain AI claim?",
       "options": [
-        "Label it and seek evidence",
         "Trust it if it sounds confident",
+        "Label it and seek evidence",
         "Hide it"
       ],
-      "answer": 0,
+      "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 12: Data Collection Challenge. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Data Collection Challenge portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 12: Data Collection Challenge. Objective: Collect balanced examples.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Training data table.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Data Collection Challenge portfolio artifact",
+    "artifact": "Training data table.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -666,15 +666,15 @@ window.PDX_MISSIONS = [
     "title": "Train Test Validate",
     "time": "40\u201360 min",
     "skill": "ML/data",
-    "objective": "Use AI, data, or product thinking to complete: Train Test Validate.",
-    "concept": "Machine Learning & Data Thinking: Can you train, test, and critique a model instead of treating it as magic? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Train Test Validate means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Train Test Validate. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Train Test Validate connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Train and test a classifier.",
+    "concept": "Machine Learning & Data Thinking: Train and test a classifier. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Train Test Validate matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Record predicted class, confidence, and success/failure on 10 unseen tests.",
+    "realWorld": "Real-world link: Train Test Validate connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -684,25 +684,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What makes an AI product useful?",
       "options": [
-        "A clear user, problem, data/input, output, and test",
-        "A fancy name only",
+        "Clear user, problem, input, output, and test",
+        "Fancy words only",
         "No human oversight"
       ],
       "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 13: Train Test Validate. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Train Test Validate portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 13: Train Test Validate. Objective: Train and test a classifier.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Model test results table.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Train Test Validate portfolio artifact",
+    "artifact": "Model test results table.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -721,15 +721,15 @@ window.PDX_MISSIONS = [
     "title": "Break the Model",
     "time": "40\u201360 min",
     "skill": "ML/data",
-    "objective": "Use AI, data, or product thinking to complete: Break the Model.",
-    "concept": "Machine Learning & Data Thinking: Can you train, test, and critique a model instead of treating it as magic? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Break the Model means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Break the Model. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Break the Model connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Find model failure modes.",
+    "concept": "Machine Learning & Data Thinking: Find model failure modes. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Break the Model matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Change background, angle, lighting, noise, or pose to trick the classifier.",
+    "realWorld": "Real-world link: Break the Model connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -737,7 +737,7 @@ window.PDX_MISSIONS = [
       "Audit": "A structured check for errors, bias, safety, or weak performance."
     },
     "quiz": {
-      "q": "What should a demo include?",
+      "q": "What belongs in a strong demo?",
       "options": [
         "Only success",
         "What worked, failed, changed, and comes next",
@@ -746,18 +746,18 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 14: Break the Model. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Break the Model portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 14: Break the Model. Objective: Find model failure modes.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Model failure report.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Break the Model portfolio artifact",
+    "artifact": "Model failure report.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -776,15 +776,15 @@ window.PDX_MISSIONS = [
     "title": "ML Demo",
     "time": "40\u201360 min",
     "skill": "ML/data",
-    "objective": "Use AI, data, or product thinking to complete: ML Demo.",
-    "concept": "Machine Learning & Data Thinking: Can you train, test, and critique a model instead of treating it as magic? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think ML Demo means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to ML Demo. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: ML Demo connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Explain the model honestly.",
+    "concept": "Machine Learning & Data Thinking: Explain the model honestly. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does ML Demo matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Demo what works, what fails, what data is missing, and version 2.",
+    "realWorld": "Real-world link: ML Demo connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -794,25 +794,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is human judgment for?",
       "options": [
-        "Letting AI decide everything",
         "Checking, choosing, and taking responsibility",
-        "Making prompts longer"
+        "Making prompts longer",
+        "Letting AI decide everything"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 15: ML Demo. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: ML Demo portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 15: ML Demo. Objective: Explain the model honestly.. Teach the idea simply, ask me 3 questions, then help me build this artifact: ML demo script.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "ML Demo portfolio artifact",
+    "artifact": "ML demo script.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -831,15 +831,15 @@ window.PDX_MISSIONS = [
     "title": "Python Basics",
     "time": "40\u201360 min",
     "skill": "Coding",
-    "objective": "Use AI, data, or product thinking to complete: Python Basics.",
-    "concept": "Python, Logic & Computational Thinking: Can you design the logic around AI tools? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Python Basics means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Python Basics. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Python Basics connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Understand variables, strings, numbers, and output.",
+    "concept": "Python, Logic & Computational Thinking: Understand variables, strings, numbers, and output. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Python Basics matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Use a study-helper example with name, subject, and score variables.",
+    "realWorld": "Real-world link: Python Basics connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -849,25 +849,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is the strongest AI learning move?",
       "options": [
-        "Copy the answer exactly",
+        "Copy the AI answer exactly",
         "Build, test, explain, and improve",
         "Skip the reflection"
       ],
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 16: Python Basics. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Python Basics portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 16: Python Basics. Objective: Understand variables, strings, numbers, and output.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Python basics cheat sheet.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Python Basics portfolio artifact",
+    "artifact": "Python basics cheat sheet.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -886,15 +886,15 @@ window.PDX_MISSIONS = [
     "title": "Conditionals",
     "time": "40\u201360 min",
     "skill": "Coding",
-    "objective": "Use AI, data, or product thinking to complete: Conditionals.",
-    "concept": "Python, Logic & Computational Thinking: Can you design the logic around AI tools? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Conditionals means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Conditionals. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Conditionals connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Use if/else decisions.",
+    "concept": "Python, Logic & Computational Thinking: Use if/else decisions. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Conditionals matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Design logic for a study coach or sports practice advisor.",
+    "realWorld": "Real-world link: Conditionals connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -904,25 +904,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What should you do with an uncertain AI claim?",
       "options": [
-        "Label it and seek evidence",
         "Trust it if it sounds confident",
+        "Label it and seek evidence",
         "Hide it"
       ],
-      "answer": 0,
+      "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 17: Conditionals. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Conditionals portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 17: Conditionals. Objective: Use if/else decisions.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Decision tree pseudocode.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Conditionals portfolio artifact",
+    "artifact": "Decision tree pseudocode.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -941,15 +941,15 @@ window.PDX_MISSIONS = [
     "title": "Loops and Lists",
     "time": "40\u201360 min",
     "skill": "Coding",
-    "objective": "Use AI, data, or product thinking to complete: Loops and Lists.",
-    "concept": "Python, Logic & Computational Thinking: Can you design the logic around AI tools? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Loops and Lists means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Loops and Lists. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Loops and Lists connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Use lists and loops for repeated work.",
+    "concept": "Python, Logic & Computational Thinking: Use lists and loops for repeated work. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Loops and Lists matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Loop over Spanish vocab words, basketball stats, or LEGO items.",
+    "realWorld": "Real-world link: Loops and Lists connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -959,25 +959,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What makes an AI product useful?",
       "options": [
-        "A clear user, problem, data/input, output, and test",
-        "A fancy name only",
+        "Clear user, problem, input, output, and test",
+        "Fancy words only",
         "No human oversight"
       ],
       "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 18: Loops and Lists. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Loops and Lists portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 18: Loops and Lists. Objective: Use lists and loops for repeated work.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Loop/list explanation.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Loops and Lists portfolio artifact",
+    "artifact": "Loop/list explanation.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -996,15 +996,15 @@ window.PDX_MISSIONS = [
     "title": "Functions",
     "time": "40\u201360 min",
     "skill": "Coding",
-    "objective": "Use AI, data, or product thinking to complete: Functions.",
-    "concept": "Python, Logic & Computational Thinking: Can you design the logic around AI tools? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Functions means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Functions. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Functions connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Design reusable tools.",
+    "concept": "Python, Logic & Computational Thinking: Design reusable tools. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Functions matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Create functions for quiz_word, score_answer, show_feedback.",
+    "realWorld": "Real-world link: Functions connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1012,7 +1012,7 @@ window.PDX_MISSIONS = [
       "Audit": "A structured check for errors, bias, safety, or weak performance."
     },
     "quiz": {
-      "q": "What should a demo include?",
+      "q": "What belongs in a strong demo?",
       "options": [
         "Only success",
         "What worked, failed, changed, and comes next",
@@ -1021,18 +1021,18 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 19: Functions. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Functions portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 19: Functions. Objective: Design reusable tools.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Function plan.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Functions portfolio artifact",
+    "artifact": "Function plan.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1051,15 +1051,15 @@ window.PDX_MISSIONS = [
     "title": "Rule-Based Chatbot",
     "time": "40\u201360 min",
     "skill": "Coding",
-    "objective": "Use AI, data, or product thinking to complete: Rule-Based Chatbot.",
-    "concept": "Python, Logic & Computational Thinking: Can you design the logic around AI tools? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Rule-Based Chatbot means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Rule-Based Chatbot. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Rule-Based Chatbot connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Design a simple chatbot before AI.",
+    "concept": "Python, Logic & Computational Thinking: Design a simple chatbot before AI. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Rule-Based Chatbot matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Create branches for greeting, practice, hint, fallback.",
+    "realWorld": "Real-world link: Rule-Based Chatbot connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1069,25 +1069,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is human judgment for?",
       "options": [
-        "Letting AI decide everything",
         "Checking, choosing, and taking responsibility",
-        "Making prompts longer"
+        "Making prompts longer",
+        "Letting AI decide everything"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 20: Rule-Based Chatbot. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Rule-Based Chatbot portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 20: Rule-Based Chatbot. Objective: Design a simple chatbot before AI.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Chatbot pseudocode.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Rule-Based Chatbot portfolio artifact",
+    "artifact": "Chatbot pseudocode.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1106,15 +1106,15 @@ window.PDX_MISSIONS = [
     "title": "Problem Discovery",
     "time": "40\u201360 min",
     "skill": "Product",
-    "objective": "Use AI, data, or product thinking to complete: Problem Discovery.",
-    "concept": "AI Product Studio: Can you turn AI into a useful, safe, testable product? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Problem Discovery means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Problem Discovery. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Problem Discovery connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Find a real problem worth solving.",
+    "concept": "AI Product Studio: Find a real problem worth solving. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Problem Discovery matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Interview yourself or a parent: what is annoying, repeated, or confusing?",
+    "realWorld": "Real-world link: Problem Discovery connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1124,25 +1124,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is the strongest AI learning move?",
       "options": [
-        "Copy the answer exactly",
+        "Copy the AI answer exactly",
         "Build, test, explain, and improve",
         "Skip the reflection"
       ],
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 21: Problem Discovery. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Problem Discovery portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 21: Problem Discovery. Objective: Find a real problem worth solving.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Project one-pager.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Problem Discovery portfolio artifact",
+    "artifact": "Project one-pager.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1161,15 +1161,15 @@ window.PDX_MISSIONS = [
     "title": "User + Data Flow",
     "time": "40\u201360 min",
     "skill": "Product",
-    "objective": "Use AI, data, or product thinking to complete: User + Data Flow.",
-    "concept": "AI Product Studio: Can you turn AI into a useful, safe, testable product? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think User + Data Flow means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to User + Data Flow. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: User + Data Flow connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Map user, input, AI action, output, human decision.",
+    "concept": "AI Product Studio: Map user, input, AI action, output, human decision. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does User + Data Flow matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Use a school tool, LEGO estimator, sports coach, or e-bike comparison.",
+    "realWorld": "Real-world link: User + Data Flow connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1179,25 +1179,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What should you do with an uncertain AI claim?",
       "options": [
-        "Label it and seek evidence",
         "Trust it if it sounds confident",
+        "Label it and seek evidence",
         "Hide it"
       ],
-      "answer": 0,
+      "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 22: User + Data Flow. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: User + Data Flow portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 22: User + Data Flow. Objective: Map user, input, AI action, output, human decision.. Teach the idea simply, ask me 3 questions, then help me build this artifact: AI product flow map.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "User + Data Flow portfolio artifact",
+    "artifact": "AI product flow map.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1216,15 +1216,15 @@ window.PDX_MISSIONS = [
     "title": "Prototype Builder",
     "time": "40\u201360 min",
     "skill": "Product",
-    "objective": "Use AI, data, or product thinking to complete: Prototype Builder.",
-    "concept": "AI Product Studio: Can you turn AI into a useful, safe, testable product? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Prototype Builder means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Prototype Builder. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Prototype Builder connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Build a first prototype.",
+    "concept": "AI Product Studio: Build a first prototype. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Prototype Builder matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Use prompts, tables, pseudocode, or a simple page to make the idea testable.",
+    "realWorld": "Real-world link: Prototype Builder connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1234,25 +1234,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What makes an AI product useful?",
       "options": [
-        "A clear user, problem, data/input, output, and test",
-        "A fancy name only",
+        "Clear user, problem, input, output, and test",
+        "Fancy words only",
         "No human oversight"
       ],
       "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 23: Prototype Builder. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Prototype Builder portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 23: Prototype Builder. Objective: Build a first prototype.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Prototype artifact.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Prototype Builder portfolio artifact",
+    "artifact": "Prototype artifact.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1271,15 +1271,15 @@ window.PDX_MISSIONS = [
     "title": "AI Audit Test",
     "time": "40\u201360 min",
     "skill": "Product",
-    "objective": "Use AI, data, or product thinking to complete: AI Audit Test.",
-    "concept": "AI Product Studio: Can you turn AI into a useful, safe, testable product? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think AI Audit Test means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to AI Audit Test. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: AI Audit Test connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Audit the prototype.",
+    "concept": "AI Product Studio: Audit the prototype. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does AI Audit Test matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Check hallucination, bias, privacy, safety, usefulness, and failure case.",
+    "realWorld": "Real-world link: AI Audit Test connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1287,7 +1287,7 @@ window.PDX_MISSIONS = [
       "Audit": "A structured check for errors, bias, safety, or weak performance."
     },
     "quiz": {
-      "q": "What should a demo include?",
+      "q": "What belongs in a strong demo?",
       "options": [
         "Only success",
         "What worked, failed, changed, and comes next",
@@ -1296,18 +1296,18 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 24: AI Audit Test. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: AI Audit Test portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 24: AI Audit Test. Objective: Audit the prototype.. Teach the idea simply, ask me 3 questions, then help me build this artifact: AI audit report.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "AI Audit Test portfolio artifact",
+    "artifact": "AI audit report.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1326,15 +1326,15 @@ window.PDX_MISSIONS = [
     "title": "Product Demo",
     "time": "40\u201360 min",
     "skill": "Product",
-    "objective": "Use AI, data, or product thinking to complete: Product Demo.",
-    "concept": "AI Product Studio: Can you turn AI into a useful, safe, testable product? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Product Demo means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Product Demo. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Product Demo connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Pitch the product.",
+    "concept": "AI Product Studio: Pitch the product. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Product Demo matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Show problem, user, demo, test, failure, version 2.",
+    "realWorld": "Real-world link: Product Demo connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1344,25 +1344,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is human judgment for?",
       "options": [
-        "Letting AI decide everything",
         "Checking, choosing, and taking responsibility",
-        "Making prompts longer"
+        "Making prompts longer",
+        "Letting AI decide everything"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 25: Product Demo. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Product Demo portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 25: Product Demo. Objective: Pitch the product.. Teach the idea simply, ask me 3 questions, then help me build this artifact: 2-minute product pitch.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Product Demo portfolio artifact",
+    "artifact": "2-minute product pitch.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1381,15 +1381,15 @@ window.PDX_MISSIONS = [
     "title": "Choose Capstone",
     "time": "40\u201360 min",
     "skill": "Capstone",
-    "objective": "Use AI, data, or product thinking to complete: Choose Capstone.",
-    "concept": "Founder Capstone: Can you solve a real problem and explain the AI system honestly? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Choose Capstone means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Choose Capstone. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Choose Capstone connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Choose the final project.",
+    "concept": "Founder Capstone: Choose the final project. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Choose Capstone matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Pick the best idea from AI literacy, ML, Python, product, or audit work.",
+    "realWorld": "Real-world link: Choose Capstone connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1399,25 +1399,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is the strongest AI learning move?",
       "options": [
-        "Copy the answer exactly",
+        "Copy the AI answer exactly",
         "Build, test, explain, and improve",
         "Skip the reflection"
       ],
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 26: Choose Capstone. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Choose Capstone portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 26: Choose Capstone. Objective: Choose the final project.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Capstone problem statement.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Choose Capstone portfolio artifact",
+    "artifact": "Capstone problem statement.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1426,8 +1426,8 @@ window.PDX_MISSIONS = [
       "What failed or felt weak?",
       "What should version 2 improve?"
     ],
-    "resourceLabel": "Portfolio",
-    "resourceUrl": "portfolio.html"
+    "resourceLabel": "Capstone Canvas",
+    "resourceUrl": "capstone-canvas.html"
   },
   {
     "day": 27,
@@ -1436,15 +1436,15 @@ window.PDX_MISSIONS = [
     "title": "Design AI Solution",
     "time": "40\u201360 min",
     "skill": "Capstone",
-    "objective": "Use AI, data, or product thinking to complete: Design AI Solution.",
-    "concept": "Founder Capstone: Can you solve a real problem and explain the AI system honestly? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Design AI Solution means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Design AI Solution. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Design AI Solution connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Design the full solution.",
+    "concept": "Founder Capstone: Design the full solution. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Design AI Solution matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Define user, problem, input, output, AI role, human role, safety rule.",
+    "realWorld": "Real-world link: Design AI Solution connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1454,25 +1454,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What should you do with an uncertain AI claim?",
       "options": [
-        "Label it and seek evidence",
         "Trust it if it sounds confident",
+        "Label it and seek evidence",
         "Hide it"
       ],
-      "answer": 0,
+      "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 27: Design AI Solution. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Design AI Solution portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 27: Design AI Solution. Objective: Design the full solution.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Capstone design brief.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Design AI Solution portfolio artifact",
+    "artifact": "Capstone design brief.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1481,8 +1481,8 @@ window.PDX_MISSIONS = [
       "What failed or felt weak?",
       "What should version 2 improve?"
     ],
-    "resourceLabel": "Portfolio",
-    "resourceUrl": "portfolio.html"
+    "resourceLabel": "Capstone Canvas",
+    "resourceUrl": "capstone-canvas.html"
   },
   {
     "day": 28,
@@ -1491,15 +1491,15 @@ window.PDX_MISSIONS = [
     "title": "Build and Test",
     "time": "40\u201360 min",
     "skill": "Capstone",
-    "objective": "Use AI, data, or product thinking to complete: Build and Test.",
-    "concept": "Founder Capstone: Can you solve a real problem and explain the AI system honestly? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Build and Test means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Build and Test. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Build and Test connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Build and test final artifact.",
+    "concept": "Founder Capstone: Build and test final artifact. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Build and Test matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Test on two realistic cases and record evidence.",
+    "realWorld": "Real-world link: Build and Test connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1509,25 +1509,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What makes an AI product useful?",
       "options": [
-        "A clear user, problem, data/input, output, and test",
-        "A fancy name only",
+        "Clear user, problem, input, output, and test",
+        "Fancy words only",
         "No human oversight"
       ],
       "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 28: Build and Test. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Build and Test portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 28: Build and Test. Objective: Build and test final artifact.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Capstone test log.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Build and Test portfolio artifact",
+    "artifact": "Capstone test log.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1536,8 +1536,8 @@ window.PDX_MISSIONS = [
       "What failed or felt weak?",
       "What should version 2 improve?"
     ],
-    "resourceLabel": "Portfolio",
-    "resourceUrl": "portfolio.html"
+    "resourceLabel": "Capstone Canvas",
+    "resourceUrl": "capstone-canvas.html"
   },
   {
     "day": 29,
@@ -1546,15 +1546,15 @@ window.PDX_MISSIONS = [
     "title": "Polish and Rehearse",
     "time": "40\u201360 min",
     "skill": "Capstone",
-    "objective": "Use AI, data, or product thinking to complete: Polish and Rehearse.",
-    "concept": "Founder Capstone: Can you solve a real problem and explain the AI system honestly? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Polish and Rehearse means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Polish and Rehearse. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Polish and Rehearse connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Prepare presentation.",
+    "concept": "Founder Capstone: Prepare presentation. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Polish and Rehearse matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Cut confusion, add one example, show one failure and fix.",
+    "realWorld": "Real-world link: Polish and Rehearse connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1562,7 +1562,7 @@ window.PDX_MISSIONS = [
       "Audit": "A structured check for errors, bias, safety, or weak performance."
     },
     "quiz": {
-      "q": "What should a demo include?",
+      "q": "What belongs in a strong demo?",
       "options": [
         "Only success",
         "What worked, failed, changed, and comes next",
@@ -1571,18 +1571,18 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 29: Polish and Rehearse. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Polish and Rehearse portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 29: Polish and Rehearse. Objective: Prepare presentation.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Final demo script.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Polish and Rehearse portfolio artifact",
+    "artifact": "Final demo script.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1591,8 +1591,8 @@ window.PDX_MISSIONS = [
       "What failed or felt weak?",
       "What should version 2 improve?"
     ],
-    "resourceLabel": "Portfolio",
-    "resourceUrl": "portfolio.html"
+    "resourceLabel": "Capstone Canvas",
+    "resourceUrl": "capstone-canvas.html"
   },
   {
     "day": 30,
@@ -1601,15 +1601,15 @@ window.PDX_MISSIONS = [
     "title": "Final Showcase",
     "time": "40\u201360 min",
     "skill": "Capstone",
-    "objective": "Use AI, data, or product thinking to complete: Final Showcase.",
-    "concept": "Founder Capstone: Can you solve a real problem and explain the AI system honestly? This mission turns the idea into a visible artifact, not just a reading exercise.",
-    "warmup": "Before using AI, write what you think Final Showcase means and where you have seen something like it.",
-    "miniLab": "Run one small test connected to Final Showcase. Record input, output, what surprised you, and what needs checking.",
-    "realWorld": "Real-world link: Final Showcase connects to how students, builders, founders, or product teams use AI responsibly.",
-    "misconception": "Misconception to avoid: AI doing the task is not the same as you understanding or testing the task.",
-    "productAngle": "Product lens: define the user, the problem, the AI role, the human role, and the success test.",
-    "evidenceCheck": "Evidence check: what would prove your artifact works on a realistic example?",
-    "qualityBar": "Good work explains the concept, shows the artifact, includes one test or example, names a limitation, and proposes version 2.",
+    "objective": "Present like a founder.",
+    "concept": "Founder Capstone: Present like a founder. This mission is designed to create a portfolio artifact, not just a note.",
+    "warmup": "Before using AI, write one guess: why does Final Showcase matter for a teenager learning AI?",
+    "miniLab": "Mini lab: Explain what you built, what AI did, what you did, what failed, and version 2.",
+    "realWorld": "Real-world link: Final Showcase connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products.",
+    "misconception": "Misconception to avoid: using AI is not the same as understanding, testing, or improving AI output.",
+    "productAngle": "Product lens: who is the user, what is the problem, what does AI do, and what must the human decide?",
+    "evidenceCheck": "Evidence check: test the artifact on one realistic example and write what worked or failed.",
+    "qualityBar": "Good work includes the artifact, one example or test, one limitation, and one version 2 improvement.",
     "vocab": {
       "AI": "A system that predicts, decides, or generates from patterns.",
       "Model": "The trained system that produces outputs.",
@@ -1619,25 +1619,25 @@ window.PDX_MISSIONS = [
     "quiz": {
       "q": "What is human judgment for?",
       "options": [
-        "Letting AI decide everything",
         "Checking, choosing, and taking responsibility",
-        "Making prompts longer"
+        "Making prompts longer",
+        "Letting AI decide everything"
       ],
-      "answer": 1,
+      "answer": 0,
       "why": "Correct. The platform standard is build, test, explain, and improve."
     },
-    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 30: Final Showcase. First teach the concept simply. Then ask me 3 questions. Help me build this artifact: Final Showcase portfolio artifact. Include a real-world example, a misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
+    "prompt": "Act as my 9th-grade AI learning coach and product mentor. Mission 30: Final Showcase. Objective: Present like a founder.. Teach the idea simply, ask me 3 questions, then help me build this artifact: Final reflection and roadmap.. Include a teen-friendly example, one misconception to avoid, a test case, and a version 2 improvement. Do not do all the thinking for me.",
     "tasks": [
       "Explain the idea in your own words.",
       "Complete the warm-up.",
       "Pass the quick check.",
-      "Use the coach prompt in ChatGPT or another AI tool.",
+      "Use the coach prompt.",
       "Build the artifact.",
-      "Run one realistic test or evidence check.",
+      "Run one evidence check.",
       "Compare to the quality bar.",
-      "Write a reflection and version 2 improvement."
+      "Write reflection and version 2 improvement."
     ],
-    "artifact": "Final Showcase portfolio artifact",
+    "artifact": "Final reflection and roadmap.",
     "reflection": [
       "What did you understand better?",
       "What did AI help with?",
@@ -1646,7 +1646,7 @@ window.PDX_MISSIONS = [
       "What failed or felt weak?",
       "What should version 2 improve?"
     ],
-    "resourceLabel": "Portfolio",
-    "resourceUrl": "portfolio.html"
+    "resourceLabel": "Capstone Canvas",
+    "resourceUrl": "capstone-canvas.html"
   }
 ];

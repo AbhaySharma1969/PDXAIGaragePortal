@@ -1,0 +1,18 @@
+PDX AI Garage Auth Roadmap
+
+Current v47:
+- Local student profiles using browser localStorage.
+- Progress and reflections separated by active profile on the same device.
+- Printable certificate generated from local progress.
+
+Limitations:
+- This is not secure authentication.
+- Data does not sync across devices.
+- Passwords should not be stored in front-end JavaScript.
+
+Recommended next phase:
+1. Firebase Auth or Supabase Auth for email/password and Google sign-in.
+2. Firestore/Supabase tables for profiles, mission progress, reflections, portfolio artifacts, certificates.
+3. Admin/mentor dashboard.
+4. Certificate verification IDs.
+5. Privacy policy and parental consent workflow for minors.
