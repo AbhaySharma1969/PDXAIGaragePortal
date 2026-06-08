@@ -1,0 +1,12 @@
+
+(function(){
+const missions=window.PDX_MISSIONS||[];
+function doneSet(){try{return new Set(JSON.parse(localStorage.getItem("pdx_done")||"[]"))}catch(e){return new Set()}}
+function esc(s){return String(s||"").replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+document.addEventListener("DOMContentLoaded",()=>{
+ const done=doneSet(), list=document.getElementById("portfolioList");
+ if(list){list.innerHTML=missions.map(m=>{const r=localStorage.getItem("pdx_reflect_"+m.day)||"";return `<div class="portfolio-card"><span class="tag">Mission ${m.day}</span><h3>${esc(m.title)}</h3><p class="muted"><strong>Artifact:</strong> ${esc(m.artifact)}</p><p class="muted"><strong>Status:</strong> ${done.has(m.day)?"Completed":"Not completed yet"}</p>${r?`<p class="muted"><strong>Reflection:</strong> ${esc(r)}</p>`:""}</div>`}).join("")}
+ const btn=document.getElementById("exportPortfolio");
+ if(btn){btn.onclick=()=>{const lines=["# PDX AI Garage Portfolio","","Completed missions: "+done.size+"/30",""];missions.forEach(m=>{const r=localStorage.getItem("pdx_reflect_"+m.day)||"";lines.push(`## Mission ${m.day}: ${m.title}`,`Artifact: ${m.artifact}`,`Status: ${done.has(m.day)?"Completed":"Not completed yet"}`); if(r)lines.push(`Reflection: ${r}`); lines.push("")}); const blob=new Blob([lines.join("\n")],{type:"text/markdown"}); const url=URL.createObjectURL(blob); const a=document.createElement("a"); a.href=url; a.download="pdx-ai-garage-portfolio.md"; a.click(); URL.revokeObjectURL(url);}}
+});
+})();
