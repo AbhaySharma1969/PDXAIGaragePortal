@@ -3,258 +3,222 @@ window.PDX_SEARCH_INDEX = [
     "title": "Mission 1: What Is AI?",
     "type": "Mission",
     "url": "mission-player.html?mission=1",
-    "text": "What Is AI? AI Literacy & Human Judgment Build a clear AI explainer that separates AI, ML, deep learning, and generative AI. AI Literacy & Human Judgment: Build a clear AI explainer that separates AI, ML, deep learning, and generative AI. This mission is designed to create a portfolio artifact, not just a note. One-page AI explainer with analogy, example, and warning. Mini lab: Use a basketball coach analogy: AI gives suggestions from patterns, but the player still decides and practices. Real-world link: What Is AI? connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Foundation"
+    "text": "What Is AI? AI Basics Understand what AI is, what it is not, and why humans still matter. AI is software that uses patterns to make predictions or create things. It can help you think, but it does not replace your judgment. A one-page AI explainer for a 9th grader. Explain AI using a coach analogy. Understand AI before using it"
   },
   {
     "title": "Mission 2: AI Around You",
     "type": "Mission",
     "url": "mission-player.html?mission=2",
-    "text": "AI Around You AI Literacy & Human Judgment Map where AI appears in daily teen life. AI Literacy & Human Judgment: Map where AI appears in daily teen life. This mission is designed to create a portfolio artifact, not just a note. AI Around Me map with 10 examples. Mini lab: Find AI in YouTube, TikTok, maps, school tools, spam filters, shopping, sports stats, and games. Real-world link: AI Around You connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Foundation"
+    "text": "AI Around You AI Basics Notice where AI already shows up in your life. AI is already in search, recommendations, maps, translation, spam filters, games, and creative tools. An AI Around Me map with 8 real examples. List apps you used this week and mark what AI does. Understand AI before using it"
   },
   {
-    "title": "Mission 3: How Machine Learning Learns",
+    "title": "Mission 3: How AI Learns",
     "type": "Mission",
     "url": "mission-player.html?mission=3",
-    "text": "How Machine Learning Learns AI Literacy & Human Judgment Explain data, labels, training, testing, and prediction. AI Literacy & Human Judgment: Explain data, labels, training, testing, and prediction. This mission is designed to create a portfolio artifact, not just a note. Train/test diagram and explanation. Mini lab: Use a LEGO sorter or basketball shot classifier as the example. Real-world link: How Machine Learning Learns connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Foundation"
+    "text": "How AI Learns AI Basics Understand data, examples, labels, training, and testing. Machine learning is when a computer learns patterns from examples. Better examples usually create better results. A simple train/test diagram using LEGO, sports, or school examples. Imagine teaching a computer to sort LEGO pieces. Understand AI before using it"
   },
   {
-    "title": "Mission 4: Hallucinations & Bias",
+    "title": "Mission 4: When AI Is Wrong",
     "type": "Mission",
     "url": "mission-player.html?mission=4",
-    "text": "Hallucinations & Bias AI Literacy & Human Judgment Learn to catch confident-but-wrong AI answers and unfair patterns. AI Literacy & Human Judgment: Learn to catch confident-but-wrong AI answers and unfair patterns. This mission is designed to create a portfolio artifact, not just a note. AI trust checklist with 5 claim examples. Mini lab: Ask AI for a claim-heavy answer, then audit it with Green/Yellow/Red trust labels. Real-world link: Hallucinations & Bias connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Foundation"
+    "text": "When AI Is Wrong AI Basics Learn how to catch confident-but-wrong answers. AI can sound sure even when it is wrong. A smart user checks important claims before trusting them. A Green / Yellow / Red AI trust checklist. Ask AI for a factual answer and highlight three claims. Understand AI before using it"
   },
   {
-    "title": "Mission 5: AI Literacy Demo",
+    "title": "Mission 5: Teach AI to Someone",
     "type": "Mission",
     "url": "mission-player.html?mission=5",
-    "text": "AI Literacy Demo AI Literacy & Human Judgment Teach AI literacy to someone else. AI Literacy & Human Judgment: Teach AI literacy to someone else. This mission is designed to create a portfolio artifact, not just a note. 2-minute demo script. Mini lab: Create a two-minute demo for a parent or friend using one analogy, one example, and one warning. Real-world link: AI Literacy Demo connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Foundation"
+    "text": "Teach AI to Someone AI Basics Prove you understand AI by explaining it simply. If you can teach an idea in simple words, you probably understand it. A 2-minute AI explanation script. Explain AI to a parent or friend. Understand AI before using it"
   },
   {
-    "title": "Mission 6: Prompt Formula",
+    "title": "Mission 6: The Prompt Recipe",
     "type": "Mission",
     "url": "mission-player.html?mission=6",
-    "text": "Prompt Formula Prompt Engineering & AI Collaboration Create a reusable prompt formula. Prompt Engineering & AI Collaboration: Create a reusable prompt formula. This mission is designed to create a portfolio artifact, not just a note. Prompt formula card. Mini lab: Turn 'help me study' into a role/task/context/constraints/output/quality prompt. Real-world link: Prompt Formula connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Prompting"
+    "text": "The Prompt Recipe Prompting Learn the simple parts of a strong prompt. A good prompt tells AI who to be, what to do, what context to use, and what kind of answer you want. A reusable prompt recipe card. Improve 'help me study' into a clear coach prompt. Learn how to ask AI better questions"
   },
   {
-    "title": "Mission 7: Prompt Iteration Lab",
+    "title": "Mission 7: Make It Better",
     "type": "Mission",
     "url": "mission-player.html?mission=7",
-    "text": "Prompt Iteration Lab Prompt Engineering & AI Collaboration Improve prompts through versioning. Prompt Engineering & AI Collaboration: Improve prompts through versioning. This mission is designed to create a portfolio artifact, not just a note. Prompt comparison table. Mini lab: Compare v1/v2/v3 outputs and explain what changed. Real-world link: Prompt Iteration Lab connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Prompting"
+    "text": "Make It Better Prompting Improve a weak prompt through three versions. Prompting is not one-and-done. You test, notice what is weak, and improve it. A v1 / v2 / v3 prompt comparison. Write one prompt and improve it twice. Learn how to ask AI better questions"
   },
   {
-    "title": "Mission 8: AI Roles: Tutor Coach Critic",
+    "title": "Mission 8: AI as Coach",
     "type": "Mission",
     "url": "mission-player.html?mission=8",
-    "text": "AI Roles: Tutor Coach Critic Prompt Engineering & AI Collaboration Use AI in different roles. Prompt Engineering & AI Collaboration: Use AI in different roles. This mission is designed to create a portfolio artifact, not just a note. Four role prompts and notes. Mini lab: Ask AI to be a tutor, coach, critic, and product mentor for the same problem. Real-world link: AI Roles: Tutor Coach Critic connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Prompting"
+    "text": "AI as Coach Prompting Use AI as a tutor, coach, critic, or brainstorming partner. The role you give AI changes the kind of help you get. Four role prompts for the same task. Ask AI to help as tutor, coach, critic, and mentor. Learn how to ask AI better questions"
   },
   {
-    "title": "Mission 9: Responsible GenAI",
+    "title": "Mission 9: Using AI Honestly",
     "type": "Mission",
     "url": "mission-player.html?mission=9",
-    "text": "Responsible GenAI Prompt Engineering & AI Collaboration Create rules for school-safe AI use. Prompt Engineering & AI Collaboration: Create rules for school-safe AI use. This mission is designed to create a portfolio artifact, not just a note. Personal AI use code. Mini lab: Focus on privacy, plagiarism, copyright, and attribution. Real-world link: Responsible GenAI connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Prompting"
+    "text": "Using AI Honestly Prompting Create school-safe rules for using AI. Using AI responsibly means protecting privacy, avoiding plagiarism, and explaining your own thinking. A personal AI use code. Write five rules for school-safe AI use. Learn how to ask AI better questions"
   },
   {
     "title": "Mission 10: Prompt Demo",
     "type": "Mission",
     "url": "mission-player.html?mission=10",
-    "text": "Prompt Demo Prompt Engineering & AI Collaboration Show a before/after prompt demo. Prompt Engineering & AI Collaboration: Show a before/after prompt demo. This mission is designed to create a portfolio artifact, not just a note. 2-minute prompt demo. Mini lab: Show weak prompt, improved prompt, better output, and why it worked. Real-world link: Prompt Demo connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Prompting"
+    "text": "Prompt Demo Prompting Show how a better prompt creates a better result. A good demo shows the weak prompt, the improved prompt, and what changed. A short before/after prompt demo. Show a weak prompt and a strong prompt side by side. Learn how to ask AI better questions"
   },
   {
-    "title": "Mission 11: Teachable Machine Setup",
+    "title": "Mission 11: Pick a Model Idea",
     "type": "Mission",
     "url": "mission-player.html?mission=11",
-    "text": "Teachable Machine Setup Machine Learning & Data Thinking Plan a no-code classifier. Machine Learning & Data Thinking: Plan a no-code classifier. This mission is designed to create a portfolio artifact, not just a note. Teachable Machine project plan. Mini lab: Choose image, audio, or pose classification with three classes. Real-world link: Teachable Machine Setup connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. ML/data"
+    "text": "Pick a Model Idea Machine Learning Choose a simple image, sound, or pose classifier. A classifier sorts examples into categories. You need clear classes before you train it. A Teachable Machine project plan. Pick three classes, like LEGO colors or poses. Build and test a simple model"
   },
   {
-    "title": "Mission 12: Data Collection Challenge",
+    "title": "Mission 12: Collect Good Examples",
     "type": "Mission",
     "url": "mission-player.html?mission=12",
-    "text": "Data Collection Challenge Machine Learning & Data Thinking Collect balanced examples. Machine Learning & Data Thinking: Collect balanced examples. This mission is designed to create a portfolio artifact, not just a note. Training data table. Mini lab: Plan 20 examples per class and note lighting, background, angle, sound, or pose issues. Real-world link: Data Collection Challenge connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. ML/data"
+    "text": "Collect Good Examples Machine Learning Plan balanced training data. A model learns from examples. Messy or unfair examples can teach the wrong thing. A training data table. Plan 20 examples per class. Build and test a simple model"
   },
   {
-    "title": "Mission 13: Train Test Validate",
+    "title": "Mission 13: Train and Test",
     "type": "Mission",
     "url": "mission-player.html?mission=13",
-    "text": "Train Test Validate Machine Learning & Data Thinking Train and test a classifier. Machine Learning & Data Thinking: Train and test a classifier. This mission is designed to create a portfolio artifact, not just a note. Model test results table. Mini lab: Record predicted class, confidence, and success/failure on 10 unseen tests. Real-world link: Train Test Validate connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. ML/data"
+    "text": "Train and Test Machine Learning Train a model and test it on new examples. Testing matters because a model can do well on practice examples and fail on new ones. A test results table. Test 10 new examples. Build and test a simple model"
   },
   {
     "title": "Mission 14: Break the Model",
     "type": "Mission",
     "url": "mission-player.html?mission=14",
-    "text": "Break the Model Machine Learning & Data Thinking Find model failure modes. Machine Learning & Data Thinking: Find model failure modes. This mission is designed to create a portfolio artifact, not just a note. Model failure report. Mini lab: Change background, angle, lighting, noise, or pose to trick the classifier. Real-world link: Break the Model connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. ML/data"
+    "text": "Break the Model Machine Learning Find where your model fails. Breaking a model helps you learn its limits. A model failure report. Change angle, lighting, background, sound, or pose. Build and test a simple model"
   },
   {
-    "title": "Mission 15: ML Demo",
+    "title": "Mission 15: Model Demo",
     "type": "Mission",
     "url": "mission-player.html?mission=15",
-    "text": "ML Demo Machine Learning & Data Thinking Explain the model honestly. Machine Learning & Data Thinking: Explain the model honestly. This mission is designed to create a portfolio artifact, not just a note. ML demo script. Mini lab: Demo what works, what fails, what data is missing, and version 2. Real-world link: ML Demo connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. ML/data"
+    "text": "Model Demo Machine Learning Explain your model honestly. A good ML demo shows what works, what fails, and what should improve. A Teachable Machine demo script. Prepare a short demo. Build and test a simple model"
   },
   {
     "title": "Mission 16: Python Basics",
     "type": "Mission",
     "url": "mission-player.html?mission=16",
-    "text": "Python Basics Python, Logic & Computational Thinking Understand variables, strings, numbers, and output. Python, Logic & Computational Thinking: Understand variables, strings, numbers, and output. This mission is designed to create a portfolio artifact, not just a note. Python basics cheat sheet. Mini lab: Use a study-helper example with name, subject, and score variables. Real-world link: Python Basics connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Coding"
+    "text": "Python Basics Python Thinking Understand variables and output. Python is a language for giving clear instructions to a computer. A Python basics cheat sheet. Use variables like name, subject, and score. Learn the coding ideas behind AI tools"
   },
   {
-    "title": "Mission 17: Conditionals",
+    "title": "Mission 17: If / Then Decisions",
     "type": "Mission",
     "url": "mission-player.html?mission=17",
-    "text": "Conditionals Python, Logic & Computational Thinking Use if/else decisions. Python, Logic & Computational Thinking: Use if/else decisions. This mission is designed to create a portfolio artifact, not just a note. Decision tree pseudocode. Mini lab: Design logic for a study coach or sports practice advisor. Real-world link: Conditionals connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Coding"
+    "text": "If / Then Decisions Python Thinking Use conditionals to make choices. Conditionals let a program choose what to do next. A decision tree in pseudocode. Design rules for a study coach. Learn the coding ideas behind AI tools"
   },
   {
-    "title": "Mission 18: Loops and Lists",
+    "title": "Mission 18: Lists and Loops",
     "type": "Mission",
     "url": "mission-player.html?mission=18",
-    "text": "Loops and Lists Python, Logic & Computational Thinking Use lists and loops for repeated work. Python, Logic & Computational Thinking: Use lists and loops for repeated work. This mission is designed to create a portfolio artifact, not just a note. Loop/list explanation. Mini lab: Loop over Spanish vocab words, basketball stats, or LEGO items. Real-world link: Loops and Lists connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Coding"
+    "text": "Lists and Loops Python Thinking Use loops to repeat work. Loops help a program do the same action for many items. A loop explanation using Spanish words, LEGO pieces, or sports stats. Make a list of 10 items and describe a loop. Learn the coding ideas behind AI tools"
   },
   {
-    "title": "Mission 19: Functions",
+    "title": "Mission 19: Reusable Functions",
     "type": "Mission",
     "url": "mission-player.html?mission=19",
-    "text": "Functions Python, Logic & Computational Thinking Design reusable tools. Python, Logic & Computational Thinking: Design reusable tools. This mission is designed to create a portfolio artifact, not just a note. Function plan. Mini lab: Create functions for quiz_word, score_answer, show_feedback. Real-world link: Functions connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Coding"
+    "text": "Reusable Functions Python Thinking Plan small reusable tools. A function is a reusable mini-tool inside a program. A function plan for a study helper. Plan ask_question, check_answer, give_feedback. Learn the coding ideas behind AI tools"
   },
   {
-    "title": "Mission 20: Rule-Based Chatbot",
+    "title": "Mission 20: Simple Chatbot",
     "type": "Mission",
     "url": "mission-player.html?mission=20",
-    "text": "Rule-Based Chatbot Python, Logic & Computational Thinking Design a simple chatbot before AI. Python, Logic & Computational Thinking: Design a simple chatbot before AI. This mission is designed to create a portfolio artifact, not just a note. Chatbot pseudocode. Mini lab: Create branches for greeting, practice, hint, fallback. Real-world link: Rule-Based Chatbot connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Coding"
+    "text": "Simple Chatbot Python Thinking Design a rule-based chatbot. Before using advanced AI, you can design a chatbot with clear branches and fallback responses. A chatbot script or pseudocode. Create a chatbot flow for Spanish, algebra, sports, or LEGO help. Learn the coding ideas behind AI tools"
   },
   {
-    "title": "Mission 21: Problem Discovery",
+    "title": "Mission 21: Find a Real Problem",
     "type": "Mission",
     "url": "mission-player.html?mission=21",
-    "text": "Problem Discovery AI Product Studio Find a real problem worth solving. AI Product Studio: Find a real problem worth solving. This mission is designed to create a portfolio artifact, not just a note. Project one-pager. Mini lab: Interview yourself or a parent: what is annoying, repeated, or confusing? Real-world link: Problem Discovery connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Product"
+    "text": "Find a Real Problem Build Useful Tools Choose a problem worth solving. Good AI projects start with a person and a real problem, not with a tool. A project one-pager. Pick one repeated problem from school, sports, hobbies, or home. Turn AI ideas into small products"
   },
   {
-    "title": "Mission 22: User + Data Flow",
+    "title": "Mission 22: Map the Tool",
     "type": "Mission",
     "url": "mission-player.html?mission=22",
-    "text": "User + Data Flow AI Product Studio Map user, input, AI action, output, human decision. AI Product Studio: Map user, input, AI action, output, human decision. This mission is designed to create a portfolio artifact, not just a note. AI product flow map. Mini lab: Use a school tool, LEGO estimator, sports coach, or e-bike comparison. Real-world link: User + Data Flow connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Product"
+    "text": "Map the Tool Build Useful Tools Plan the user, input, AI help, output, and human decision. A tool is easier to build when you know what goes in, what comes out, and who decides. An AI product flow map. Map a school helper, LEGO price checker, habit coach, or e-bike comparison tool. Turn AI ideas into small products"
   },
   {
-    "title": "Mission 23: Prototype Builder",
+    "title": "Mission 23: Build a Prototype",
     "type": "Mission",
     "url": "mission-player.html?mission=23",
-    "text": "Prototype Builder AI Product Studio Build a first prototype. AI Product Studio: Build a first prototype. This mission is designed to create a portfolio artifact, not just a note. Prototype artifact. Mini lab: Use prompts, tables, pseudocode, or a simple page to make the idea testable. Real-world link: Prototype Builder connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Product"
+    "text": "Build a Prototype Build Useful Tools Make a first version people can try. A prototype is a rough version that helps you learn what works. A testable prototype artifact. Build with prompts, a table, pseudocode, or a simple page. Turn AI ideas into small products"
   },
   {
-    "title": "Mission 24: AI Audit Test",
+    "title": "Mission 24: Check the Tool",
     "type": "Mission",
     "url": "mission-player.html?mission=24",
-    "text": "AI Audit Test AI Product Studio Audit the prototype. AI Product Studio: Audit the prototype. This mission is designed to create a portfolio artifact, not just a note. AI audit report. Mini lab: Check hallucination, bias, privacy, safety, usefulness, and failure case. Real-world link: AI Audit Test connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Product"
+    "text": "Check the Tool Build Useful Tools Audit your prototype for problems. Useful tools need checking for errors, bias, privacy, safety, and confusion. An AI audit report. Test the tool on one realistic example and one tricky example. Turn AI ideas into small products"
   },
   {
     "title": "Mission 25: Product Demo",
     "type": "Mission",
     "url": "mission-player.html?mission=25",
-    "text": "Product Demo AI Product Studio Pitch the product. AI Product Studio: Pitch the product. This mission is designed to create a portfolio artifact, not just a note. 2-minute product pitch. Mini lab: Show problem, user, demo, test, failure, version 2. Real-world link: Product Demo connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Product"
+    "text": "Product Demo Build Useful Tools Pitch the tool clearly. A strong demo shows the problem, tool, test, weakness, and next version. A 2-minute product pitch. Explain who it helps, how it works, what failed, and what comes next. Turn AI ideas into small products"
   },
   {
-    "title": "Mission 26: Choose Capstone",
+    "title": "Mission 26: Choose Your Capstone",
     "type": "Mission",
     "url": "mission-player.html?mission=26",
-    "text": "Choose Capstone Founder Capstone Choose the final project. Founder Capstone: Choose the final project. This mission is designed to create a portfolio artifact, not just a note. Capstone problem statement. Mini lab: Pick the best idea from AI literacy, ML, Python, product, or audit work. Real-world link: Choose Capstone connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Capstone"
+    "text": "Choose Your Capstone Capstone Pick the final project. A good capstone is specific, useful, testable, and honest about limits. A capstone problem statement. Choose your best idea from the course. Finish with a real AI project"
   },
   {
-    "title": "Mission 27: Design AI Solution",
+    "title": "Mission 27: Design the Solution",
     "type": "Mission",
     "url": "mission-player.html?mission=27",
-    "text": "Design AI Solution Founder Capstone Design the full solution. Founder Capstone: Design the full solution. This mission is designed to create a portfolio artifact, not just a note. Capstone design brief. Mini lab: Define user, problem, input, output, AI role, human role, safety rule. Real-world link: Design AI Solution connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Capstone"
+    "text": "Design the Solution Capstone Plan the full AI solution. Good design separates the AI role from the human role. A capstone design brief. Define user, problem, input, output, AI role, human role, risk, and test. Finish with a real AI project"
   },
   {
     "title": "Mission 28: Build and Test",
     "type": "Mission",
     "url": "mission-player.html?mission=28",
-    "text": "Build and Test Founder Capstone Build and test final artifact. Founder Capstone: Build and test final artifact. This mission is designed to create a portfolio artifact, not just a note. Capstone test log. Mini lab: Test on two realistic cases and record evidence. Real-world link: Build and Test connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Capstone"
+    "text": "Build and Test Capstone Create the final artifact and test it. Testing gives your project evidence. A capstone test log. Test on two realistic cases. Finish with a real AI project"
   },
   {
-    "title": "Mission 29: Polish and Rehearse",
+    "title": "Mission 29: Polish the Demo",
     "type": "Mission",
     "url": "mission-player.html?mission=29",
-    "text": "Polish and Rehearse Founder Capstone Prepare presentation. Founder Capstone: Prepare presentation. This mission is designed to create a portfolio artifact, not just a note. Final demo script. Mini lab: Cut confusion, add one example, show one failure and fix. Real-world link: Polish and Rehearse connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Capstone"
+    "text": "Polish the Demo Capstone Make the presentation clear. A clear demo is short, honest, and easy to follow. A final demo script. Cut confusing parts and add one strong example. Finish with a real AI project"
   },
   {
     "title": "Mission 30: Final Showcase",
     "type": "Mission",
     "url": "mission-player.html?mission=30",
-    "text": "Final Showcase Founder Capstone Present like a founder. Founder Capstone: Present like a founder. This mission is designed to create a portfolio artifact, not just a note. Final reflection and roadmap. Mini lab: Explain what you built, what AI did, what you did, what failed, and version 2. Real-world link: Final Showcase connects to school, sports, LEGO/e-bike decisions, creative tools, or future AI products. Product lens: who is the user, what is the problem, what does AI do, and what must the human decide? Evidence check: test the artifact on one realistic example and write what worked or failed. Good work includes the artifact, one example or test, one limitation, and one version 2 improvement. Capstone"
+    "text": "Final Showcase Capstone Present like a founder. The final showcase should explain the problem, build, AI help, human judgment, failure, and version 2. A final reflection and roadmap. Present what you built and what you would improve next. Finish with a real AI project"
   },
   {
     "title": "Home",
     "type": "Page",
     "url": "index.html",
-    "text": "AI teen learning platform dashboard portfolio mission"
+    "text": "start continue simple workflow"
   },
   {
     "title": "Dashboard",
     "type": "Page",
     "url": "dashboard.html",
-    "text": "progress continue module jumps profile"
+    "text": "progress next mission"
   },
   {
-    "title": "Roadmap",
+    "title": "Search",
     "type": "Page",
-    "url": "roadmap.html",
-    "text": "curriculum modules AI literacy prompt machine learning Python product capstone"
+    "url": "search.html",
+    "text": "keyword lego python bias capstone"
   },
   {
-    "title": "Studio",
-    "type": "Page",
-    "url": "studio.html",
-    "text": "product design lab audit agent capstone canvas"
-  },
-  {
-    "title": "Product Design Lab",
-    "type": "Page",
-    "url": "product-design-lab.html",
-    "text": "user problem input output AI role human role risk test"
-  },
-  {
-    "title": "AI Audit Lab",
-    "type": "Page",
-    "url": "ai-audit-lab.html",
-    "text": "hallucination bias privacy safety quality evidence check"
-  },
-  {
-    "title": "Agent Lab",
-    "type": "Page",
-    "url": "agent-lab.html",
-    "text": "agent goal tools boundaries human approval memory failure"
-  },
-  {
-    "title": "Capstone Canvas",
-    "type": "Page",
-    "url": "capstone-canvas.html",
-    "text": "final project problem audience artifact test version 2 roadmap"
-  },
-  {
-    "title": "Portfolio",
-    "type": "Page",
-    "url": "portfolio.html",
-    "text": "artifact reflection export portfolio completion"
-  },
-  {
-    "title": "Profiles",
+    "title": "Profile",
     "type": "Page",
     "url": "profile.html",
-    "text": "student profiles progress local profile"
+    "text": "student profiles local progress"
   },
   {
     "title": "Certificate",
     "type": "Page",
     "url": "certificate.html",
-    "text": "certificate completion print save pdf"
+    "text": "certificate completion"
   },
   {
-    "title": "Glossary",
+    "title": "Roadmap",
     "type": "Page",
-    "url": "glossary.html",
-    "text": "AI machine learning model data bias hallucination prompt audit agent capstone"
+    "url": "roadmap.html",
+    "text": "six weeks ai basics prompting machine learning python tools capstone"
   },
   {
-    "title": "Resources",
+    "title": "Portfolio",
     "type": "Page",
-    "url": "resources.html",
-    "text": "Google AI Day of AI Code.org Teachable Machine CS50 MIT xPRO"
+    "url": "portfolio.html",
+    "text": "artifacts reflections export"
   }
 ];
