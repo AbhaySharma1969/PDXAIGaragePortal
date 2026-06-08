@@ -1,0 +1,1 @@
+v26: Added deeper bootcamp-style teaching meat: warm-ups, mini labs, quality bars, portfolio page, portfolio-oriented artifacts, richer mission data, and Noble Desktop-inspired project/coding/portfolio emphasis.
