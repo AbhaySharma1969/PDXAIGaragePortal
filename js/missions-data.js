@@ -31,7 +31,7 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 1: What Is AI?. Objective: Understand what AI is, what it is not, and why humans still matter.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A one-page AI explainer for a 9th grader.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 1: What Is AI?. Objective: Understand what AI is, what it is not, and why humans still matter. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A one-page AI explainer for a 9th grader. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -49,7 +49,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Google AI Skills",
-    "resourceUrl": "https://ai.google/learn-ai-skills/"
+    "resourceUrl": "https://ai.google/learn-ai-skills/",
+    "artifactTemplate": "Title: What Is AI?\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "What Is AI?",
+      "AI Basics",
+      "Understand AI before using it"
+    ]
   },
   {
     "day": 2,
@@ -83,7 +89,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 2: AI Around You. Objective: Notice where AI already shows up in your life.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: An AI Around Me map with 8 real examples.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 2: AI Around You. Objective: Notice where AI already shows up in your life. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: An AI Around Me map with 8 real examples. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -101,7 +107,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Google AI Skills",
-    "resourceUrl": "https://ai.google/learn-ai-skills/"
+    "resourceUrl": "https://ai.google/learn-ai-skills/",
+    "artifactTemplate": "Title: AI Around You\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "AI Around You",
+      "AI Basics",
+      "Understand AI before using it"
+    ]
   },
   {
     "day": 3,
@@ -135,7 +147,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 3: How AI Learns. Objective: Understand data, examples, labels, training, and testing.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A simple train/test diagram using LEGO, sports, or school examples.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 3: How AI Learns. Objective: Understand data, examples, labels, training, and testing. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A simple train/test diagram using LEGO, sports, or school examples. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -153,7 +165,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Google AI Skills",
-    "resourceUrl": "https://ai.google/learn-ai-skills/"
+    "resourceUrl": "https://ai.google/learn-ai-skills/",
+    "artifactTemplate": "Title: How AI Learns\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "How AI Learns",
+      "AI Basics",
+      "Understand AI before using it"
+    ]
   },
   {
     "day": 4,
@@ -187,7 +205,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 4: When AI Is Wrong. Objective: Learn how to catch confident-but-wrong answers.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A Green / Yellow / Red AI trust checklist.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 4: When AI Is Wrong. Objective: Learn how to catch confident-but-wrong answers. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A Green / Yellow / Red AI trust checklist. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -205,7 +223,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Google AI Skills",
-    "resourceUrl": "https://ai.google/learn-ai-skills/"
+    "resourceUrl": "https://ai.google/learn-ai-skills/",
+    "artifactTemplate": "Title: When AI Is Wrong\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "When AI Is Wrong",
+      "AI Basics",
+      "Understand AI before using it"
+    ]
   },
   {
     "day": 5,
@@ -239,7 +263,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 5: Teach AI to Someone. Objective: Prove you understand AI by explaining it simply.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A 2-minute AI explanation script.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 5: Teach AI to Someone. Objective: Prove you understand AI by explaining it simply. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A 2-minute AI explanation script. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -257,7 +281,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Google AI Skills",
-    "resourceUrl": "https://ai.google/learn-ai-skills/"
+    "resourceUrl": "https://ai.google/learn-ai-skills/",
+    "artifactTemplate": "Title: Teach AI to Someone\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Teach AI to Someone",
+      "AI Basics",
+      "Understand AI before using it"
+    ]
   },
   {
     "day": 6,
@@ -291,7 +321,7 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 6: The Prompt Recipe. Objective: Learn the simple parts of a strong prompt.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A reusable prompt recipe card.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 6: The Prompt Recipe. Objective: Learn the simple parts of a strong prompt. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A reusable prompt recipe card. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -309,7 +339,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Day of AI",
-    "resourceUrl": "https://dayofai.org/curriculum-resources"
+    "resourceUrl": "https://dayofai.org/curriculum-resources",
+    "artifactTemplate": "Title: The Prompt Recipe\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "The Prompt Recipe",
+      "Prompting",
+      "Learn how to ask AI better questions"
+    ]
   },
   {
     "day": 7,
@@ -343,7 +379,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 7: Make It Better. Objective: Improve a weak prompt through three versions.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A v1 / v2 / v3 prompt comparison.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 7: Make It Better. Objective: Improve a weak prompt through three versions. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A v1 / v2 / v3 prompt comparison. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -361,7 +397,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Day of AI",
-    "resourceUrl": "https://dayofai.org/curriculum-resources"
+    "resourceUrl": "https://dayofai.org/curriculum-resources",
+    "artifactTemplate": "Title: Make It Better\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Make It Better",
+      "Prompting",
+      "Learn how to ask AI better questions"
+    ]
   },
   {
     "day": 8,
@@ -395,7 +437,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 8: AI as Coach. Objective: Use AI as a tutor, coach, critic, or brainstorming partner.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: Four role prompts for the same task.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 8: AI as Coach. Objective: Use AI as a tutor, coach, critic, or brainstorming partner. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: Four role prompts for the same task. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -413,7 +455,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Day of AI",
-    "resourceUrl": "https://dayofai.org/curriculum-resources"
+    "resourceUrl": "https://dayofai.org/curriculum-resources",
+    "artifactTemplate": "Title: AI as Coach\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "AI as Coach",
+      "Prompting",
+      "Learn how to ask AI better questions"
+    ]
   },
   {
     "day": 9,
@@ -447,7 +495,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 9: Using AI Honestly. Objective: Create school-safe rules for using AI.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A personal AI use code.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 9: Using AI Honestly. Objective: Create school-safe rules for using AI. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A personal AI use code. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -465,7 +513,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Day of AI",
-    "resourceUrl": "https://dayofai.org/curriculum-resources"
+    "resourceUrl": "https://dayofai.org/curriculum-resources",
+    "artifactTemplate": "Title: Using AI Honestly\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Using AI Honestly",
+      "Prompting",
+      "Learn how to ask AI better questions"
+    ]
   },
   {
     "day": 10,
@@ -499,7 +553,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 10: Prompt Demo. Objective: Show how a better prompt creates a better result.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A short before/after prompt demo.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 10: Prompt Demo. Objective: Show how a better prompt creates a better result. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A short before/after prompt demo. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -517,7 +571,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Day of AI",
-    "resourceUrl": "https://dayofai.org/curriculum-resources"
+    "resourceUrl": "https://dayofai.org/curriculum-resources",
+    "artifactTemplate": "Title: Prompt Demo\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Prompt Demo",
+      "Prompting",
+      "Learn how to ask AI better questions"
+    ]
   },
   {
     "day": 11,
@@ -551,7 +611,7 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 11: Pick a Model Idea. Objective: Choose a simple image, sound, or pose classifier.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A Teachable Machine project plan.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 11: Pick a Model Idea. Objective: Choose a simple image, sound, or pose classifier. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A Teachable Machine project plan. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -569,7 +629,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Teachable Machine",
-    "resourceUrl": "https://teachablemachine.withgoogle.com/"
+    "resourceUrl": "https://teachablemachine.withgoogle.com/",
+    "artifactTemplate": "Title: Pick a Model Idea\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Pick a Model Idea",
+      "Machine Learning",
+      "Build and test a simple model"
+    ]
   },
   {
     "day": 12,
@@ -603,7 +669,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 12: Collect Good Examples. Objective: Plan balanced training data.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A training data table.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 12: Collect Good Examples. Objective: Plan balanced training data. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A training data table. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -621,7 +687,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Teachable Machine",
-    "resourceUrl": "https://teachablemachine.withgoogle.com/"
+    "resourceUrl": "https://teachablemachine.withgoogle.com/",
+    "artifactTemplate": "Title: Collect Good Examples\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Collect Good Examples",
+      "Machine Learning",
+      "Build and test a simple model"
+    ]
   },
   {
     "day": 13,
@@ -655,7 +727,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 13: Train and Test. Objective: Train a model and test it on new examples.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A test results table.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 13: Train and Test. Objective: Train a model and test it on new examples. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A test results table. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -673,7 +745,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Teachable Machine",
-    "resourceUrl": "https://teachablemachine.withgoogle.com/"
+    "resourceUrl": "https://teachablemachine.withgoogle.com/",
+    "artifactTemplate": "Title: Train and Test\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Train and Test",
+      "Machine Learning",
+      "Build and test a simple model"
+    ]
   },
   {
     "day": 14,
@@ -707,7 +785,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 14: Break the Model. Objective: Find where your model fails.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A model failure report.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 14: Break the Model. Objective: Find where your model fails. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A model failure report. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -725,7 +803,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Teachable Machine",
-    "resourceUrl": "https://teachablemachine.withgoogle.com/"
+    "resourceUrl": "https://teachablemachine.withgoogle.com/",
+    "artifactTemplate": "Title: Break the Model\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Break the Model",
+      "Machine Learning",
+      "Build and test a simple model"
+    ]
   },
   {
     "day": 15,
@@ -759,7 +843,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 15: Model Demo. Objective: Explain your model honestly.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A Teachable Machine demo script.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 15: Model Demo. Objective: Explain your model honestly. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A Teachable Machine demo script. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -777,7 +861,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Teachable Machine",
-    "resourceUrl": "https://teachablemachine.withgoogle.com/"
+    "resourceUrl": "https://teachablemachine.withgoogle.com/",
+    "artifactTemplate": "Title: Model Demo\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Model Demo",
+      "Machine Learning",
+      "Build and test a simple model"
+    ]
   },
   {
     "day": 16,
@@ -811,7 +901,7 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 16: Python Basics. Objective: Understand variables and output.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A Python basics cheat sheet.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 16: Python Basics. Objective: Understand variables and output. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A Python basics cheat sheet. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -829,7 +919,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open CS50 Python",
-    "resourceUrl": "https://cs50.harvard.edu/python/"
+    "resourceUrl": "https://cs50.harvard.edu/python/",
+    "artifactTemplate": "Title: Python Basics\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Python Basics",
+      "Python Thinking",
+      "Learn the coding ideas behind AI tools"
+    ]
   },
   {
     "day": 17,
@@ -863,7 +959,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 17: If / Then Decisions. Objective: Use conditionals to make choices.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A decision tree in pseudocode.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 17: If / Then Decisions. Objective: Use conditionals to make choices. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A decision tree in pseudocode. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -881,7 +977,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open CS50 Python",
-    "resourceUrl": "https://cs50.harvard.edu/python/"
+    "resourceUrl": "https://cs50.harvard.edu/python/",
+    "artifactTemplate": "Title: If / Then Decisions\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "If / Then Decisions",
+      "Python Thinking",
+      "Learn the coding ideas behind AI tools"
+    ]
   },
   {
     "day": 18,
@@ -915,7 +1017,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 18: Lists and Loops. Objective: Use loops to repeat work.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A loop explanation using Spanish words, LEGO pieces, or sports stats.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 18: Lists and Loops. Objective: Use loops to repeat work. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A loop explanation using Spanish words, LEGO pieces, or sports stats. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -933,7 +1035,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open CS50 Python",
-    "resourceUrl": "https://cs50.harvard.edu/python/"
+    "resourceUrl": "https://cs50.harvard.edu/python/",
+    "artifactTemplate": "Title: Lists and Loops\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Lists and Loops",
+      "Python Thinking",
+      "Learn the coding ideas behind AI tools"
+    ]
   },
   {
     "day": 19,
@@ -967,7 +1075,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 19: Reusable Functions. Objective: Plan small reusable tools.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A function plan for a study helper.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 19: Reusable Functions. Objective: Plan small reusable tools. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A function plan for a study helper. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -985,7 +1093,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open CS50 Python",
-    "resourceUrl": "https://cs50.harvard.edu/python/"
+    "resourceUrl": "https://cs50.harvard.edu/python/",
+    "artifactTemplate": "Title: Reusable Functions\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Reusable Functions",
+      "Python Thinking",
+      "Learn the coding ideas behind AI tools"
+    ]
   },
   {
     "day": 20,
@@ -1019,7 +1133,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 20: Simple Chatbot. Objective: Design a rule-based chatbot.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A chatbot script or pseudocode.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 20: Simple Chatbot. Objective: Design a rule-based chatbot. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A chatbot script or pseudocode. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1037,7 +1151,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open CS50 Python",
-    "resourceUrl": "https://cs50.harvard.edu/python/"
+    "resourceUrl": "https://cs50.harvard.edu/python/",
+    "artifactTemplate": "Title: Simple Chatbot\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Simple Chatbot",
+      "Python Thinking",
+      "Learn the coding ideas behind AI tools"
+    ]
   },
   {
     "day": 21,
@@ -1071,7 +1191,7 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 21: Find a Real Problem. Objective: Choose a problem worth solving.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A project one-pager.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 21: Find a Real Problem. Objective: Choose a problem worth solving. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A project one-pager. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1089,7 +1209,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Code.org AI",
-    "resourceUrl": "https://code.org/ai"
+    "resourceUrl": "https://code.org/ai",
+    "artifactTemplate": "Title: Find a Real Problem\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Find a Real Problem",
+      "Build Useful Tools",
+      "Turn AI ideas into small products"
+    ]
   },
   {
     "day": 22,
@@ -1123,7 +1249,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 22: Map the Tool. Objective: Plan the user, input, AI help, output, and human decision.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: An AI product flow map.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 22: Map the Tool. Objective: Plan the user, input, AI help, output, and human decision. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: An AI product flow map. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1141,7 +1267,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Code.org AI",
-    "resourceUrl": "https://code.org/ai"
+    "resourceUrl": "https://code.org/ai",
+    "artifactTemplate": "Title: Map the Tool\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Map the Tool",
+      "Build Useful Tools",
+      "Turn AI ideas into small products"
+    ]
   },
   {
     "day": 23,
@@ -1175,7 +1307,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 23: Build a Prototype. Objective: Make a first version people can try.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A testable prototype artifact.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 23: Build a Prototype. Objective: Make a first version people can try. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A testable prototype artifact. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1193,7 +1325,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Code.org AI",
-    "resourceUrl": "https://code.org/ai"
+    "resourceUrl": "https://code.org/ai",
+    "artifactTemplate": "Title: Build a Prototype\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Build a Prototype",
+      "Build Useful Tools",
+      "Turn AI ideas into small products"
+    ]
   },
   {
     "day": 24,
@@ -1227,7 +1365,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 24: Check the Tool. Objective: Audit your prototype for problems.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: An AI audit report.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 24: Check the Tool. Objective: Audit your prototype for problems. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: An AI audit report. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1245,7 +1383,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Code.org AI",
-    "resourceUrl": "https://code.org/ai"
+    "resourceUrl": "https://code.org/ai",
+    "artifactTemplate": "Title: Check the Tool\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Check the Tool",
+      "Build Useful Tools",
+      "Turn AI ideas into small products"
+    ]
   },
   {
     "day": 25,
@@ -1279,7 +1423,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 25: Product Demo. Objective: Pitch the tool clearly.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A 2-minute product pitch.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 25: Product Demo. Objective: Pitch the tool clearly. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A 2-minute product pitch. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1297,7 +1441,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Code.org AI",
-    "resourceUrl": "https://code.org/ai"
+    "resourceUrl": "https://code.org/ai",
+    "artifactTemplate": "Title: Product Demo\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Product Demo",
+      "Build Useful Tools",
+      "Turn AI ideas into small products"
+    ]
   },
   {
     "day": 26,
@@ -1331,7 +1481,7 @@ window.PDX_MISSIONS = [
       "answer": 1,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 26: Choose Your Capstone. Objective: Pick the final project.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A capstone problem statement.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 26: Choose Your Capstone. Objective: Pick the final project. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A capstone problem statement. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1349,7 +1499,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Capstone Canvas",
-    "resourceUrl": "capstone-canvas.html"
+    "resourceUrl": "capstone-canvas.html",
+    "artifactTemplate": "Title: Choose Your Capstone\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Choose Your Capstone",
+      "Capstone",
+      "Finish with a real AI project"
+    ]
   },
   {
     "day": 27,
@@ -1383,7 +1539,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 27: Design the Solution. Objective: Plan the full AI solution.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A capstone design brief.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 27: Design the Solution. Objective: Plan the full AI solution. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A capstone design brief. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1401,7 +1557,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Capstone Canvas",
-    "resourceUrl": "capstone-canvas.html"
+    "resourceUrl": "capstone-canvas.html",
+    "artifactTemplate": "Title: Design the Solution\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Design the Solution",
+      "Capstone",
+      "Finish with a real AI project"
+    ]
   },
   {
     "day": 28,
@@ -1435,7 +1597,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 28: Build and Test. Objective: Create the final artifact and test it.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A capstone test log.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 28: Build and Test. Objective: Create the final artifact and test it. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A capstone test log. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1453,7 +1615,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Capstone Canvas",
-    "resourceUrl": "capstone-canvas.html"
+    "resourceUrl": "capstone-canvas.html",
+    "artifactTemplate": "Title: Build and Test\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Build and Test",
+      "Capstone",
+      "Finish with a real AI project"
+    ]
   },
   {
     "day": 29,
@@ -1487,7 +1655,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 29: Polish the Demo. Objective: Make the presentation clear.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A final demo script.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 29: Polish the Demo. Objective: Make the presentation clear. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A final demo script. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1505,7 +1673,13 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Capstone Canvas",
-    "resourceUrl": "capstone-canvas.html"
+    "resourceUrl": "capstone-canvas.html",
+    "artifactTemplate": "Title: Polish the Demo\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Polish the Demo",
+      "Capstone",
+      "Finish with a real AI project"
+    ]
   },
   {
     "day": 30,
@@ -1539,7 +1713,7 @@ window.PDX_MISSIONS = [
       "answer": 0,
       "why": "Correct. The goal is to build one clear thing and explain it."
     },
-    "prompt": "Act as my 9th-grade AI learning coach. Mission 30: Final Showcase. Objective: Present like a founder.. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A final reflection and roadmap.. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
+    "prompt": "Act as my 9th-grade AI learning coach. Mission 30: Final Showcase. Objective: Present like a founder. Explain it simply first. Then ask me 3 questions. After I answer, help me make this artifact: A final reflection and roadmap. Do not do all the thinking for me. Coach me step by step. End by asking what version 2 should improve.",
     "tasks": [
       "Read the tiny lesson.",
       "Answer the warm-up.",
@@ -1557,6 +1731,12 @@ window.PDX_MISSIONS = [
       "What should version 2 improve?"
     ],
     "resourceLabel": "Open Capstone Canvas",
-    "resourceUrl": "capstone-canvas.html"
+    "resourceUrl": "capstone-canvas.html",
+    "artifactTemplate": "Title: Final Showcase\nWhat I learned:\nWhat I built:\nTest:\nVersion 2:",
+    "searchTags": [
+      "Final Showcase",
+      "Capstone",
+      "Finish with a real AI project"
+    ]
   }
 ];
