@@ -1,43 +1,41 @@
-# PDX AI Garage v1.3 Auth
+# PDX AI Garage Portal
 
-This version adds real student/builder account creation and login using Firebase Authentication and Firestore.
+Combined Version 4.
 
-## Included
-- Email/password sign up
-- Login/logout
-- Protected dashboard
-- Protected Journey Zero and Journey One
-- Cloud-saved Builder profile
-- Cloud-saved XP and mission completion
-- Cloud-saved Builder Notebook reflections
-- Garage Passport connected to Firestore progress
+This package includes all prior versions plus:
+- Start Here page
+- Dashboard
+- 6-week curriculum
+- 30-session lesson plan
+- Prompt Library
+- Resources/templates
+- XP + Rubric
+- Founder Guide
+- Showcase Roadmap
+- Testing Checklist
+- Week 1 detailed missions, Day 1–5
+- Week 2 LEGO Case File detailed missions, Day 6–10
+- Custom domain CNAME for pdxaigarage.com
 
-## Required setup before auth works
-Edit:
+Upload instructions:
+1. Unzip this folder.
+2. Open the unzipped folder.
+3. Drag the contents into the GitHub repo root.
+4. Commit changes.
+5. Test https://pdxaigarage.com/testing-checklist.html
 
-```text
-assets/js/firebase-config.js
-```
 
-Paste your Firebase web app configuration.
+Version 5 additions:
+- Week 3 School Tools module
+- Day 11–15 detailed mission pages
+- school-tools.html hub
+- Dashboard and testing updates through Day 15
 
-See:
 
-```text
-docs/firebase/FIREBASE_SETUP.md
-```
+Version 6: Full 30-day build completed through Day 30 with Week 4, Week 5, and Week 6 modules.
 
-## Deploy
-Upload the contents of this folder to your site root.
 
-For pdxaigarage.com root:
+Version 7: Added the AI Learning Layer with interactive learning labs, quizzes, prompt builder, verification lab, ethics rules, AI modes, glossary, and challenges.
 
-```text
-public_html/
-```
 
-For subfolder:
-
-```text
-public_html/PDXAIGarage/
-```
+Version 8: Added Student Workspace with local mission logs, XP tracking, artifact vault, badge board, export, and localStorage-based progress.
