@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dashboard · PDX AI Garage</title>
+  <meta name="description" content="A project-based AI apprenticeship for teen builders.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;650;750;850;950&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+    <div class="nav"><div class="container nav-inner">
+      <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
+      <div class="nav-links">
+        <a href="why.html">Why</a>
+        <a href="method.html">Method</a>
+        <a href="journey-zero.html">Journey Zero</a>
+        <a href="journey-one.html">Journey One</a>
+        <a href="dashboard.html">Dashboard</a>
+        <a href="notebook.html">Notebook</a>
+        <a href="join.html" class="btn">Join</a>
+      </div>
+    </div></div>
+    
+
+<section class="page-hero"><div class="container">
+  <span class="kicker">Builder Dashboard</span>
+  <h1>Your Garage OS.</h1>
+  <p class="big">Track XP, missions, identity, passport stamps, and notebook reflections. This is static for now and saves progress in this browser.</p>
+</div></section>
+<section class="section"><div class="container grid">
+  <div class="card glow-card">
+    <span class="badge">Builder status</span>
+    <h2><span data-rank>New Builder</span></h2>
+    <p>XP: <strong data-xp>0</strong> · Missions complete: <strong data-mission-count>0</strong></p>
+    <div class="progress-wrap"><div class="progress-bar" data-progress></div></div>
+    <p class="small">Progress toward Garage Builder rank.</p>
+  </div>
+  <div class="card">
+    <h2>Builder Identity</h2>
+    <p>Your current identity: <strong data-identity>Not chosen yet</strong></p>
+    <a class="btn secondary" href="journey-zero.html">Update identity</a>
+  </div>
+</div></section>
+<section class="section"><div class="container">
+  <h2>Garage Passport</h2>
+  <div class="passport-grid">
+    <div class="stamp" data-complete-id="journey-zero"><h3>Journey Zero</h3><p>Builder identity + Impossible List.</p></div>
+    <div class="stamp" data-complete-id="journey-one"><h3>AI Detective</h3><p>Case file + evidence board.</p></div>
+    <div class="stamp"><h3>Builder District</h3><p>Coming in v1.3.</p></div>
+    <div class="stamp"><h3>Creator Studio</h3><p>Coming in v1.4.</p></div>
+  </div>
+</div></section>
+<section class="section"><div class="container">
+  <h2>Builder Notebook</h2>
+  <div class="cards two" data-notes></div>
+</div></section>
+
+
+    <footer class="footer"><div class="container">
+      <strong>PDX AI Garage</strong> · Founding Cohort Edition v1.2 · Build your future. Powered by AI.
+      <p class="small">Built in Portland as a father-son AI apprenticeship experiment. Static launch build; connect forms before broad promotion.</p>
+    </div></footer>
+    <script src="assets/js/app.js"></script>
+    
+</body>
+</html>

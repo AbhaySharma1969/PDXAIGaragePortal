@@ -1,0 +1,24 @@
+{
+  "journeys": [
+    {
+      "id": "journey-zero",
+      "title": "Choose Your Builder Identity",
+      "artifact": "Impossible List",
+      "xp": 50
+    },
+    {
+      "id": "journey-one",
+      "title": "AI Detective Bureau",
+      "artifact": "Case File",
+      "xp": 100
+    }
+  ],
+  "districts": [
+    "AI Detective Bureau",
+    "Builder District",
+    "Creator Studio",
+    "Sports Lab",
+    "LEGO Lab",
+    "Founder Studio"
+  ]
+}
