@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Dashboard · PDX AI Garage</title>
+  <title>Join · PDX AI Garage</title>
   <meta name="description" content="A project-based AI apprenticeship for teen builders.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -26,36 +26,32 @@
     
 
 <section class="page-hero"><div class="container">
-  <span class="kicker">Builder Dashboard</span>
-  <h1>Your Garage OS.</h1>
-  <p class="big">Track XP, missions, identity, passport stamps, and notebook reflections. This is static for now and saves progress in this browser.</p>
+  <span class="kicker">Join the Founding Cohort</span>
+  <h1>Help us build the Garage.</h1>
+  <p class="big">This first cohort is intentionally small. We are looking for curious teens and families who want to help shape a practical AI apprenticeship.</p>
 </div></section>
 <section class="section"><div class="container grid">
-  <div class="card glow-card">
-    <span class="badge">Builder status</span>
-    <h2><span data-rank>New Builder</span></h2>
-    <p>XP: <strong data-xp>0</strong> · Missions complete: <strong data-mission-count>0</strong></p>
-    <div class="progress-wrap"><div class="progress-bar" data-progress></div></div>
-    <p class="small">Progress toward Garage Builder rank.</p>
-  </div>
+  <form class="card" onsubmit="event.preventDefault(); document.getElementById('joinmsg').style.display='block';">
+    <h2>Interest form</h2>
+    <div class="notice">Static demo form. Connect this to Google Forms, Formspree, or GoDaddy email before public promotion.</div>
+    <label>Parent / guardian name</label><input placeholder="Your name">
+    <label>Email</label><input type="email" placeholder="you@example.com">
+    <label>Builder age</label><input placeholder="14–18">
+    <label>What does your builder like?</label><textarea placeholder="LEGO, Minecraft, sports, coding, YouTube, art, robotics..."></textarea>
+    <button class="btn" type="submit">Submit interest</button>
+    <p id="joinmsg" class="success" style="display:none;margin-top:15px">Demo saved visually. Connect the form to collect real submissions.</p>
+  </form>
   <div class="card">
-    <h2>Builder Identity</h2>
-    <p>Your current identity: <strong data-identity>Not chosen yet</strong></p>
-    <a class="btn secondary" href="journey-zero.html">Update identity</a>
+    <h2>Who this is for</h2>
+    <p>Curious teens who want to build real things with AI, not just watch videos.</p>
+    <h3>Founding cohort values</h3>
+    <ul>
+      <li>Curiosity over memorization</li>
+      <li>Portfolio over grades</li>
+      <li>Human judgment over AI output</li>
+      <li>Version 2 over perfection</li>
+    </ul>
   </div>
-</div></section>
-<section class="section"><div class="container">
-  <h2>Garage Passport</h2>
-  <div class="passport-grid">
-    <div class="stamp" data-complete-id="journey-zero"><h3>Journey Zero</h3><p>Builder identity + Impossible List.</p></div>
-    <div class="stamp" data-complete-id="journey-one"><h3>AI Detective</h3><p>Case file + evidence board.</p></div>
-    <div class="stamp"><h3>Builder District</h3><p>Coming in v1.3.</p></div>
-    <div class="stamp"><h3>Creator Studio</h3><p>Coming in v1.4.</p></div>
-  </div>
-</div></section>
-<section class="section"><div class="container">
-  <h2>Builder Notebook</h2>
-  <div class="cards two" data-notes></div>
 </div></section>
 
 
