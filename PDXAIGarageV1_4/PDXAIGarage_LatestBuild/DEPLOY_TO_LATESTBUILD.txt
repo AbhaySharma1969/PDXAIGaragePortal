@@ -1,0 +1,22 @@
+DEPLOYMENT TARGET
+
+Upload the CONTENTS of this folder into:
+
+public_html/LatestBuild/
+
+Correct result:
+
+public_html/LatestBuild/index.html
+public_html/LatestBuild/auth.html
+public_html/LatestBuild/assets/
+public_html/LatestBuild/docs/
+
+Then open:
+
+https://pdxaigarage.com/LatestBuild/
+
+Do NOT put it here:
+
+public_html/LatestBuild/PDXAIGarage_LatestBuild/index.html
+
+That would create a nested folder and break the expected URL.

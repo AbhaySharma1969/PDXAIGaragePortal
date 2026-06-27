@@ -1,0 +1,14 @@
+{
+  "journeys": [
+    {
+      "id": "journey-zero",
+      "title": "Choose Your Builder Identity",
+      "xp": 50
+    },
+    {
+      "id": "journey-one",
+      "title": "AI Detective Bureau",
+      "xp": 100
+    }
+  ]
+}

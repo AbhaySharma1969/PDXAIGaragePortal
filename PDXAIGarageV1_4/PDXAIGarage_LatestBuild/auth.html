@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login · PDX AI Garage</title>
+  <meta name="description" content="A project-based AI apprenticeship for teen builders.">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;650;750;850;950&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-requires-auth="false">
+<div class="nav"><div class="container nav-inner">
+  <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
+  <div class="nav-links">
+    <a href="why.html">Why</a><a href="method.html">Method</a><a href="journey-zero.html">Journey Zero</a><a href="journey-one.html">Journey One</a>
+    <a href="dashboard.html">Dashboard</a><a href="notebook.html">Notebook</a><a href="team.html">Team</a>
+    <a class="login-link btn" href="auth.html">Login</a>
+    <span class="account-bar"><span class="small" data-user-email></span><button class="btn secondary" data-signout>Sign out</button></span>
+  </div>
+</div></div>
+
+<section class="page-hero"><div class="container"><span class="kicker">Builder Account</span><h1>Create your Garage login.</h1><p class="big">Sign up as a builder or log back in to continue your passport, XP, and notebook.</p></div></section>
+<section class="section"><div class="container grid">
+  <form class="card" id="signupForm"><h2>Create account</h2>
+    <label>Builder name</label><input id="signupName" required placeholder="Sahil Sharma">
+    <label>Email</label><input id="signupEmail" required type="email" placeholder="builder@example.com">
+    <label>Password</label><input id="signupPassword" required type="password" minlength="6" placeholder="At least 6 characters">
+    <label>Builder age</label><input id="builderAge" placeholder="15">
+    <label>Interests</label><textarea id="builderInterests" placeholder="LEGO, Minecraft, basketball, golf, e-bikes, Spanish..."></textarea>
+    <button class="btn" type="submit">Create Builder Account</button><div id="authMsg" class="hidden"></div>
+  </form>
+  <div class="card">
+    <form id="loginForm"><h2>Login</h2><label>Email</label><input id="loginEmail" required type="email"><label>Password</label><input id="loginPassword" required type="password"><button class="btn secondary" type="submit">Login</button></form>
+    <form id="resetForm" style="margin-top:24px"><h3>Password reset</h3><label>Email</label><input id="resetEmail" type="email"><button class="btn ghost" type="submit">Send reset email</button><div id="resetMsg" class="hidden"></div></form>
+  </div>
+</div></section>
+
+<footer class="footer"><div class="container">
+  <strong>PDX AI Garage</strong> · LatestBuild · Founding Cohort Edition · Build your future. Powered by AI.
+  <p class="small">This build is designed to run safely at /LatestBuild/.</p>
+</div></footer>
+<script type="module" src="assets/js/auth.js"></script>
+</body></html>
