@@ -1,45 +1,43 @@
-# PDX AI Garage — Founding Cohort Edition v1.2
+# PDX AI Garage v1.3 Auth
 
-A static, publish-ready site for the first public release of PDX AI Garage: a project-based AI apprenticeship for teen builders.
+This version adds real student/builder account creation and login using Firebase Authentication and Firestore.
 
-## What is included
+## Included
+- Email/password sign up
+- Login/logout
+- Protected dashboard
+- Protected Journey Zero and Journey One
+- Cloud-saved Builder profile
+- Cloud-saved XP and mission completion
+- Cloud-saved Builder Notebook reflections
+- Garage Passport connected to Firestore progress
 
-- Homepage
-- Why We Exist
-- The Garage Method
-- Journey Zero onboarding
-- Journey One AI Detective Bureau
-- Builder Dashboard
-- Garage Passport
-- Builder Notebook using browser localStorage
-- Meet the Team
-- Founder Notebook
-- Join Cohort page
-- Builder Page demo
-- Docs: PRD, Brand Guide, Playbook, Release Notes
+## Required setup before auth works
+Edit:
 
-## How to publish
+```text
+assets/js/firebase-config.js
+```
 
-Upload the **contents** of this folder to your web root or subfolder.
+Paste your Firebase web app configuration.
 
-For GoDaddy subfolder deployment:
+See:
+
+```text
+docs/firebase/FIREBASE_SETUP.md
+```
+
+## Deploy
+Upload the contents of this folder to your site root.
+
+For pdxaigarage.com root:
+
+```text
+public_html/
+```
+
+For subfolder:
 
 ```text
 public_html/PDXAIGarage/
 ```
-
-The `index.html` file must be directly inside `PDXAIGarage/`, not buried inside another folder.
-
-## Important launch note
-
-The Join form is static. Before promotion, connect it to:
-- Google Forms
-- Formspree
-- GoDaddy form mail
-- Netlify Forms
-- Airtable form
-
-## Release
-
-Version: 1.2
-Status: Founder review / publishable prototype

@@ -4,66 +4,33 @@
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Journey Zero · PDX AI Garage</title>
   <meta name="description" content="A project-based AI apprenticeship for teen builders.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;650;750;850;950&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-<body>
+<body data-requires-auth="true">
+<div class="nav"><div class="container nav-inner">
+  <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
+  <div class="nav-links">
+    <a href="why.html">Why</a><a href="method.html">Method</a><a href="journey-zero.html">Journey Zero</a><a href="journey-one.html">Journey One</a>
+    <a href="dashboard.html">Dashboard</a><a href="notebook.html">Notebook</a>
+    <a class="login-link btn" href="auth.html">Login</a>
+    <span class="account-bar"><span class="small" data-user-email></span><button class="btn secondary" data-signout>Sign out</button></span>
+  </div>
+</div></div>
 
-    <div class="nav"><div class="container nav-inner">
-      <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
-      <div class="nav-links">
-        <a href="why.html">Why</a>
-        <a href="method.html">Method</a>
-        <a href="journey-zero.html">Journey Zero</a>
-        <a href="journey-one.html">Journey One</a>
-        <a href="dashboard.html">Dashboard</a>
-        <a href="notebook.html">Notebook</a>
-        <a href="join.html" class="btn">Join</a>
-      </div>
-    </div></div>
-    
-
-<section class="page-hero"><div class="container">
-  <span class="kicker">Journey Zero · First Hour</span>
-  <h1>Choose your Builder Identity.</h1>
-  <p class="big">Before we teach anything, we ask: what kind of builder do you want to become?</p>
-</div></section>
+<section class="page-hero"><div class="container"><span class="kicker">Journey Zero</span><h1>Choose your Builder Identity.</h1><p class="big">Create an account first, then save your identity and Impossible List to your real Builder profile.</p></div></section>
 <section class="section"><div class="container grid">
-  <div class="card">
-    <h2>Step 1: Pick your identity</h2>
-    <p>This is not permanent. It is a starting point.</p>
-    <div class="pill-row">
-      <button class="pill" data-identity-choice="AI Detective">AI Detective</button>
-      <button class="pill" data-identity-choice="Builder">Builder</button>
-      <button class="pill" data-identity-choice="Creator">Creator</button>
-      <button class="pill" data-identity-choice="Founder">Founder</button>
-      <button class="pill" data-identity-choice="Engineer">Engineer</button>
-      <button class="pill" data-identity-choice="Sports Analyst">Sports Analyst</button>
-      <button class="pill" data-identity-choice="Storyteller">Storyteller</button>
-    </div>
-    <p>Current identity: <strong data-identity>Not chosen yet</strong></p>
-  </div>
-  <div class="card">
-    <h2>Step 2: Build your Impossible List</h2>
-    <p>Write 10 things you would build if nothing could stop you. Serious, funny, weird, or impossible all count.</p>
-    <textarea id="impossible" placeholder="Example: A LEGO price predictor. A golf swing coach. A Minecraft world generator. A Spanish practice bot..."></textarea>
-    <button class="btn" data-save-note="#impossible" data-note-title="Impossible List">Save to Builder Notebook</button>
-  </div>
+<div class="card"><h2>Pick your identity</h2><div class="pill-row">
+<button class="pill" data-identity-choice="AI Detective">AI Detective</button><button class="pill" data-identity-choice="Builder">Builder</button><button class="pill" data-identity-choice="Creator">Creator</button><button class="pill" data-identity-choice="Founder">Founder</button><button class="pill" data-identity-choice="Sports Analyst">Sports Analyst</button>
+</div><p>Current identity: <strong data-identity>Not chosen yet</strong></p></div>
+<div class="card"><h2>Impossible List</h2><textarea id="impossible" placeholder="10 things you'd build if nothing could stop you..."></textarea><button class="btn" data-save-note="#impossible" data-note-title="Impossible List">Save to Builder Notebook</button></div>
 </div></section>
-<section class="section"><div class="container card">
-  <h2>Step 3: Complete Journey Zero</h2>
-  <p>You have chosen an identity and started your first notebook artifact.</p>
-  <button class="btn" data-complete="journey-zero" data-xp-award="50">Complete Journey Zero · +50 XP</button>
-</div></section>
+<section class="section"><div class="container card"><h2>Complete Journey Zero</h2><button class="btn" data-complete="journey-zero" data-xp-award="50">Complete Journey Zero · +50 XP</button></div></section>
 
-
-    <footer class="footer"><div class="container">
-      <strong>PDX AI Garage</strong> · Founding Cohort Edition v1.2 · Build your future. Powered by AI.
-      <p class="small">Built in Portland as a father-son AI apprenticeship experiment. Static launch build; connect forms before broad promotion.</p>
-    </div></footer>
-    <script src="assets/js/app.js"></script>
-    
-</body>
-</html>
+<footer class="footer"><div class="container">
+  <strong>PDX AI Garage</strong> · Founding Cohort Edition v1.3 Auth · Build your future. Powered by AI.
+  <p class="small">Real login build using Firebase Authentication and Firestore. Configure Firebase before production use.</p>
+</div></footer>
+<script type="module" src="assets/js/auth.js"></script>
+</body></html>

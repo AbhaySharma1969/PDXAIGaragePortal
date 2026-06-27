@@ -4,77 +4,30 @@
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Journey One · PDX AI Garage</title>
   <meta name="description" content="A project-based AI apprenticeship for teen builders.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;650;750;850;950&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-<body>
+<body data-requires-auth="true">
+<div class="nav"><div class="container nav-inner">
+  <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
+  <div class="nav-links">
+    <a href="why.html">Why</a><a href="method.html">Method</a><a href="journey-zero.html">Journey Zero</a><a href="journey-one.html">Journey One</a>
+    <a href="dashboard.html">Dashboard</a><a href="notebook.html">Notebook</a>
+    <a class="login-link btn" href="auth.html">Login</a>
+    <span class="account-bar"><span class="small" data-user-email></span><button class="btn secondary" data-signout>Sign out</button></span>
+  </div>
+</div></div>
 
-    <div class="nav"><div class="container nav-inner">
-      <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
-      <div class="nav-links">
-        <a href="why.html">Why</a>
-        <a href="method.html">Method</a>
-        <a href="journey-zero.html">Journey Zero</a>
-        <a href="journey-one.html">Journey One</a>
-        <a href="dashboard.html">Dashboard</a>
-        <a href="notebook.html">Notebook</a>
-        <a href="join.html" class="btn">Join</a>
-      </div>
-    </div></div>
-    
+<section class="page-hero"><div class="container"><span class="kicker">Journey One · AI Detective Bureau</span><h1>The Case of the Confident AI.</h1><p class="big">Your AI partner sounds convincing. Your job is to verify claims, find weak spots, and build a fair case file.</p></div></section>
+<section class="section"><div class="container grid"><div class="card"><h2>Mission brief</h2><p>A confusing online story is spreading. People are reacting emotionally. Your job is not to take sides. Your job is to separate claims, evidence, opinion, and missing context.</p><div class="notice">Do not accuse people. Builders verify before believing.</div></div>
+<div class="card"><h2>Artifact</h2><ul><li>Claim vs evidence table</li><li>Timeline</li><li>Unanswered questions</li><li>AI reliability scorecard</li><li>One-page fair summary</li></ul></div></div></section>
+<section class="section"><div class="container grid"><div class="card"><h2>Builder Reflection</h2><textarea id="caseReflection" placeholder="Where could AI have been wrong? What would Version 2 improve?"></textarea><button class="btn" data-save-note="#caseReflection" data-note-title="AI Detective Reflection">Save reflection</button></div>
+<div class="card"><h2>Complete Journey One</h2><button class="btn" data-complete="journey-one" data-xp-award="100">Complete Journey One · +100 XP</button></div></div></section>
 
-<section class="page-hero"><div class="container">
-  <span class="kicker">Journey One · AI Detective Bureau</span>
-  <h1>The Case of the Confident AI.</h1>
-  <p class="big">Your AI partner has produced a report that sounds convincing. Your job is to find what is verified, what is assumed, and what might be wrong.</p>
-</div></section>
-<section class="section"><div class="container grid">
-  <div class="card">
-    <h2>Mission brief</h2>
-    <p>A local family is trying to understand a confusing online story about collectibles, trust, business responsibility, and missing evidence. People online are reacting emotionally. Your job is not to take sides. Your job is to build a fair case file.</p>
-    <div class="notice">Do not accuse people. Do not repeat rumors as facts. Builders verify before believing.</div>
-  </div>
-  <div class="card">
-    <h2>What you will build</h2>
-    <ul>
-      <li>Claim vs. evidence table</li>
-      <li>Timeline of known events</li>
-      <li>Questions still unanswered</li>
-      <li>AI reliability scorecard</li>
-      <li>One-page case summary</li>
-    </ul>
-  </div>
-</div></section>
-<section class="section"><div class="container">
-  <h2>Detective workflow</h2>
-  <div class="path">
-    <div class="step"><div class="step-num">1</div><div><h3>Ask AI for a summary</h3><p>Then mark every claim as verified, unverified, opinion, or missing context.</p></div></div>
-    <div class="step"><div class="step-num">2</div><div><h3>Build the evidence board</h3><p>What do we know? How do we know it? What source supports it?</p></div></div>
-    <div class="step"><div class="step-num">3</div><div><h3>Find the weak spots</h3><p>Where did AI sound confident without enough evidence?</p></div></div>
-    <div class="step"><div class="step-num">4</div><div><h3>Write the fair summary</h3><p>Explain the situation without hype, accusation, or drama.</p></div></div>
-  </div>
-</div></section>
-<section class="section"><div class="container grid">
-  <div class="card">
-    <h2>Builder Reflection</h2>
-    <textarea id="caseReflection" placeholder="What surprised you? Where could AI have been wrong? What would Version 2 improve?"></textarea>
-    <button class="btn" data-save-note="#caseReflection" data-note-title="AI Detective Reflection">Save reflection</button>
-  </div>
-  <div class="card">
-    <h2>Complete Journey One</h2>
-    <p>When you have created your case file, save the reflection and unlock your first detective stamp.</p>
-    <button class="btn" data-complete="journey-one" data-xp-award="100">Complete Journey One · +100 XP</button>
-  </div>
-</div></section>
-
-
-    <footer class="footer"><div class="container">
-      <strong>PDX AI Garage</strong> · Founding Cohort Edition v1.2 · Build your future. Powered by AI.
-      <p class="small">Built in Portland as a father-son AI apprenticeship experiment. Static launch build; connect forms before broad promotion.</p>
-    </div></footer>
-    <script src="assets/js/app.js"></script>
-    
-</body>
-</html>
+<footer class="footer"><div class="container">
+  <strong>PDX AI Garage</strong> · Founding Cohort Edition v1.3 Auth · Build your future. Powered by AI.
+  <p class="small">Real login build using Firebase Authentication and Firestore. Configure Firebase before production use.</p>
+</div></footer>
+<script type="module" src="assets/js/auth.js"></script>
+</body></html>

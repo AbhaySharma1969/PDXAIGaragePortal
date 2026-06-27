@@ -2,47 +2,29 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Founder Notebook · PDX AI Garage</title>
+  <title>Notebook · PDX AI Garage</title>
   <meta name="description" content="A project-based AI apprenticeship for teen builders.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;650;750;850;950&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-<body>
+<body data-requires-auth="true">
+<div class="nav"><div class="container nav-inner">
+  <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
+  <div class="nav-links">
+    <a href="why.html">Why</a><a href="method.html">Method</a><a href="journey-zero.html">Journey Zero</a><a href="journey-one.html">Journey One</a>
+    <a href="dashboard.html">Dashboard</a><a href="notebook.html">Notebook</a>
+    <a class="login-link btn" href="auth.html">Login</a>
+    <span class="account-bar"><span class="small" data-user-email></span><button class="btn secondary" data-signout>Sign out</button></span>
+  </div>
+</div></div>
 
-    <div class="nav"><div class="container nav-inner">
-      <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
-      <div class="nav-links">
-        <a href="why.html">Why</a>
-        <a href="method.html">Method</a>
-        <a href="journey-zero.html">Journey Zero</a>
-        <a href="journey-one.html">Journey One</a>
-        <a href="dashboard.html">Dashboard</a>
-        <a href="notebook.html">Notebook</a>
-        <a href="join.html" class="btn">Join</a>
-      </div>
-    </div></div>
-    
+<section class="page-hero"><div class="container"><span class="kicker">Builder Notebook</span><h1>Your saved reflections.</h1><p class="big">Reflections are saved to your authenticated Builder account.</p></div></section>
+<section class="section"><div class="container"><div class="cards two" data-notes></div></div></section>
 
-<section class="page-hero"><div class="container">
-  <span class="kicker">Founder Notebook</span>
-  <h1>Building in public.</h1>
-  <p class="big">We are documenting what we build, what fails, what Sahil thinks, and what Version 2 improves.</p>
-</div></section>
-<section class="section"><div class="container path">
-  <div class="step"><div class="step-num">000</div><div><h3>The founding decision</h3><p>We decided PDX AI Garage would not be another AI course. It would be a project-based AI apprenticeship for teen builders.</p></div></div>
-  <div class="step"><div class="step-num">001</div><div><h3>Builder language</h3><p>We removed school language. Students became builders. Lessons became missions. Progress became a passport.</p></div></div>
-  <div class="step"><div class="step-num">002</div><div><h3>First-hour obsession</h3><p>Our first product goal became simple: make one teenager want to come back tomorrow.</p></div></div>
-  <div class="step"><div class="step-num">003</div><div><h3>Version 1.2</h3><p>We added the Garage Universe, Journey Zero onboarding, the AI Detective Bureau, Garage Passport, local progress saving, and stronger public positioning.</p></div></div>
-</div></section>
-
-
-    <footer class="footer"><div class="container">
-      <strong>PDX AI Garage</strong> · Founding Cohort Edition v1.2 · Build your future. Powered by AI.
-      <p class="small">Built in Portland as a father-son AI apprenticeship experiment. Static launch build; connect forms before broad promotion.</p>
-    </div></footer>
-    <script src="assets/js/app.js"></script>
-    
-</body>
-</html>
+<footer class="footer"><div class="container">
+  <strong>PDX AI Garage</strong> · Founding Cohort Edition v1.3 Auth · Build your future. Powered by AI.
+  <p class="small">Real login build using Firebase Authentication and Firestore. Configure Firebase before production use.</p>
+</div></footer>
+<script type="module" src="assets/js/auth.js"></script>
+</body></html>

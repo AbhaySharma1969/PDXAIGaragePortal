@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Dashboard · PDX AI Garage</title>
+  <title>Login · PDX AI Garage</title>
   <meta name="description" content="A project-based AI apprenticeship for teen builders.">
   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;650;750;850;950&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-<body data-requires-auth="true">
+<body data-requires-auth="false">
 <div class="nav"><div class="container nav-inner">
   <a class="logo" href="index.html"><span class="logo-mark">G</span><span>PDX AI Garage</span></a>
   <div class="nav-links">
@@ -19,17 +19,29 @@
   </div>
 </div></div>
 
-<section class="page-hero"><div class="container"><span class="kicker">Protected Builder Dashboard</span><h1>Welcome back, <span data-user-name>Builder</span>.</h1><p class="big">This dashboard uses real authentication and cloud-saved progress through Firebase.</p></div></section>
-<section class="section"><div class="container grid">
-<div class="card glow-card"><span class="badge">Builder status</span><h2><span data-rank>New Builder</span></h2><p>Email: <strong data-user-email></strong></p><p>XP: <strong data-xp>0</strong> · Missions complete: <strong data-mission-count>0</strong></p><div class="progress-wrap"><div class="progress-bar" data-progress></div></div></div>
-<div class="card"><h2>Builder Identity</h2><p>Current identity: <strong data-identity>Not chosen yet</strong></p><a class="btn secondary" href="journey-zero.html">Update identity</a></div>
+<section class="page-hero"><div class="container">
+  <span class="kicker">Builder Account</span><h1>Create your Garage login.</h1>
+  <p class="big">Sign up as a builder or log back in to continue your passport, XP, and notebook.</p>
 </div></section>
-<section class="section"><div class="container"><h2>Garage Passport</h2><div class="passport-grid">
-<div class="stamp" data-complete-id="journey-zero"><h3>Journey Zero</h3><p>Identity + Impossible List.</p></div>
-<div class="stamp" data-complete-id="journey-one"><h3>AI Detective</h3><p>Case file + reflection.</p></div>
-<div class="stamp"><h3>Builder District</h3><p>Coming next.</p></div><div class="stamp"><h3>Creator Studio</h3><p>Coming next.</p></div>
-</div></div></section>
-<section class="section"><div class="container"><h2>Builder Notebook</h2><div class="cards two" data-notes></div></div></section>
+<section class="section"><div class="container grid">
+  <form class="card" id="signupForm">
+    <h2>Create account</h2>
+    <label>Builder name</label><input id="signupName" required placeholder="Sahil Sharma">
+    <label>Email</label><input id="signupEmail" required type="email" placeholder="builder@example.com">
+    <label>Password</label><input id="signupPassword" required type="password" minlength="6" placeholder="At least 6 characters">
+    <label>Builder age</label><input id="builderAge" placeholder="15">
+    <label>Interests</label><textarea id="builderInterests" placeholder="LEGO, Minecraft, basketball, golf, e-bikes, Spanish..."></textarea>
+    <button class="btn" type="submit">Create Builder Account</button>
+    <div id="authMsg" class="hidden"></div>
+  </form>
+  <form class="card" id="loginForm">
+    <h2>Login</h2>
+    <label>Email</label><input id="loginEmail" required type="email">
+    <label>Password</label><input id="loginPassword" required type="password">
+    <button class="btn secondary" type="submit">Login</button>
+    <p class="small">Password reset can be added next. For v1.3, use Firebase Console to manage users.</p>
+  </form>
+</div></section>
 
 <footer class="footer"><div class="container">
   <strong>PDX AI Garage</strong> · Founding Cohort Edition v1.3 Auth · Build your future. Powered by AI.
